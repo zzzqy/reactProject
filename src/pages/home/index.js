@@ -8,7 +8,7 @@ class Home extends Component{
           hidden: false,
           fullScreen: false,
         };
-      }
+      }  
     render(){
         return( 
             <TabBar
@@ -17,7 +17,7 @@ class Home extends Component{
                 barTintColor="white"
                 hidden={this.state.hidden}
             >
-            <TabBar.Item
+                    <TabBar.Item
                     title="Life"
                     key="Life"
                     icon={<div style={{
@@ -124,4 +124,5 @@ class Home extends Component{
         )
     }
 }
+import React from 'react'
 export default Home
