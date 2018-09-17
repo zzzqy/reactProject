@@ -18,7 +18,7 @@ class Home extends Component{
                 hidden={this.state.hidden}
             >
                     <TabBar.Item
-                    title="Life"
+                    title="Wiki"
                     key="Life"
                     icon={<div style={{
                     width: '22px',
@@ -124,5 +124,5 @@ class Home extends Component{
         )
     }
 }
-import React from 'react'
+
 export default Home
