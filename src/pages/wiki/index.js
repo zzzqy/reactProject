@@ -4,12 +4,8 @@ class Wiki extends Component {
     render() {
         return (
             <div>
-                <input type="text" onClick={
-                    () => {
-                          
-                    }
-                }/>
-            </div>                  
+                wiki
+            </div>               
         );
     }
 }

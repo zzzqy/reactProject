@@ -1,5 +1,7 @@
 import React, {Component} from 'react'
+
 import { TabBar } from 'antd-mobile';
+
 class Home extends Component{
     constructor(props) {
         super(props);
@@ -124,5 +126,4 @@ class Home extends Component{
         )
     }
 }
-import React from 'react'
 export default Home
