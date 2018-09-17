@@ -4,8 +4,13 @@ class Wiki extends Component {
     render() {
         return (
             <div>
+<<<<<<< HEAD
                 
             </div>                  
+=======
+                wiki
+            </div>               
+>>>>>>> zzz
         );
     }
 }
