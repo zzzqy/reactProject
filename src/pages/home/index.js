@@ -1,4 +1,4 @@
-import Home from './views/Ui'
+import Home from './views/Home'
 
 export {
     Home
