@@ -2,6 +2,7 @@ import React, { Component,Fragment } from 'react'
        
 import { Carousel,Grid } from 'antd-mobile'
 
+import AdvList from './advlist'
 import { fetchData } from '../../../utils/commonUtil'
 
 class SuperMarket extends Component {
@@ -10,13 +11,11 @@ class SuperMarket extends Component {
         this.state = {
             imgHeight: 150,
             swiperlist:[],
-            gridlist:[],
-            sportlist:[]
+            gridlist:[]
         }
     }
     render() {
-        return (
-          
+        return (        
             <Fragment>
                 <Carousel
                     autoplay={true}
@@ -48,21 +47,13 @@ class SuperMarket extends Component {
                     hasLine={false}
                     columnNum={5}
                 />
-                <ul>
-                    { this.state.sportlist.length ? 
-                        <li>
-                            <a><img src={this.state.sportlist[0].imgUrl} alt="" className="goImg" /></a>
-                        </li>:null
-                    }
-                    
-                </ul>
+                <AdvList></AdvList>
             </Fragment>
         );
     }
     async componentDidMount(){
         this.setState({
             swiperlist:(await fetchData("/api/swiperlist")).data,
-            sportlist:(await fetchData("/api/sportlist")).data,
             gridlist:(await fetchData("/api/gridlist")).dataList.map((val, i) => ({
                 icon: val.imageUrl,
                 text: val.data.title,

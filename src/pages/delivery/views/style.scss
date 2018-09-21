@@ -18,15 +18,30 @@
     padding-bottom: .05rem;
     background: #fff;
     border-bottom: 1px solid #efefef;
+    .am-flexbox{
+        margin-bottom: .05rem
+    }
+    .am-flexbox .am-flexbox-item .am-grid-item-content .am-grid-item-inner-content .am-grid-text{
+        margin-top: 0;
+    }
 }
 .am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content .am-grid-icon{
     margin-top: .02rem;
     width: 100%!important;
 }
-.am-grid .am-flexbox .am-flexbox-item .am-grid-item-content .am-grid-item-inner-content .am-grid-text{
-    margin-top: 0;
-}
 .goImg{
     width:100%;
-    height:1.5rem
+    height:1.2rem
+}
+.titleImg{
+    width:100%;
+}
+.advStyle{
+    width: 100%;
+    background: #fff;
+    .advLIStyle{
+        .advLiImg{
+            height: 2.2rem;
+        }
+    }
 }
