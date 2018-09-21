@@ -1,0 +1,156 @@
+{
+    "ret":"true",
+    "dataList": [
+        {
+            "brandId": 0,
+            "data": {
+                "title": "早晚市",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/ab02540d-b0a3-4c55-9ab2-0d257a7a990f_240x240H",
+            "remark": "早晚市",
+            "resource": "https://a.dmall.com/act/iDTYc5W83onqxPsF.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 1,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "data": {
+                "title": "进店必买",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/e0239853-d23d-4cc1-a539-70ec3dace8fe_240x240H",
+            "remark": "进店必买",
+            "resource": "https://a.dmall.com/act/BOmu5nqkCRsKahx.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 2,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "data": {
+                "title": "热销榜单",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/de467114-70bb-46a2-bf6b-ac25de544c50_240x240H",
+            "remark": "热销榜单",
+            "resource": "https://a.dmall.com/act/W4DtneJ3ON.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 3,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "data": {
+                "title": "直采品牌",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/c81642f4-aaa1-40a8-b801-4bb8b2311128_240x240H",
+            "remark": "直采品牌",
+            "resource": "https://a.dmall.com/act/BjgioaC5etRJv.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 4,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "data": {
+                "title": "自由购",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "extraTag": 1,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/769eecfa-5c92-4817-858c-35a08d361858_240x240H",
+            "remark": "自由购",
+            "resource": "rn://selfcheckout/selfcheckout.jsbundle/DmallReactNative?dmShowTitleBar=false&erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 5,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "data": {
+                "title": "常购清单",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/01a0dedf-56d2-462b-a530-147ec9353c75_240x240H",
+            "remark": "常购清单",
+            "resource": "https://act.dmall.com/static/project/userOftenBuys/oftenBuyshd.html?dmfrom=wx&erpStoreId=10437&shareKey=1537449683373",
+            "sort": 1,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "data": {
+                "title": "母婴天地",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/545c0661-0043-451b-9179-31ebb7bf53aa_240x240H",
+            "remark": "母婴天地",
+            "resource": "https://a.dmall.com/act/rw8Ut4JMFW.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 2,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "data": {
+                "title": "领券中心",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/af38f163-e2fb-4e4a-b71f-e0a24ae357ed_240x240H",
+            "remark": "领券中心",
+            "resource": "https://a.dmall.com/act/QJwRMXETcVvg.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 3,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "data": {
+                "title": "多点四季",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/e72f5e93-20b6-4ce4-afd0-a166e5599ab8_240x240H",
+            "remark": "多点四季",
+            "resource": "https://a.dmall.com/act/rIxLSOeDUcpCX.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 4,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "data": {
+                "title": "会员专享",
+                "showPlayIcon": false,
+                "showTitle": true
+            },
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/4b3c9338-4043-4002-b4e4-9eb02ecd79ad_240x240H",
+            "remark": "会员专享",
+            "resource": "https://act.dmall.com/static/project/signIn/sign.html?dmfrom=wx&erpStoreId=10437&shareKey=1537449683373",
+            "sort": 5,
+            "storeId": 10437,
+            "venderId": 1
+        }
+    ]
+}

@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 
+import {Delivery} from '../../delivery'
+
 import { TabBar } from 'antd-mobile'; 
 
 import home from '../../../assets/iconfont/home.svg'
@@ -50,7 +52,7 @@ class HomeUi extends Component {
                 }}
                 data-seed="delivery"
             >
-                <div>lala</div>
+                <Delivery></Delivery>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
             <TabBar.Item

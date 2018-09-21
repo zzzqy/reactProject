@@ -1,0 +1,19 @@
+{
+  "ret": true,
+  "data": [{
+    "id": "0001",
+    "imgUrl": "https://img.dmallcdn.com/mIndex/201809/7a066ee7-3098-48ca-83ef-02919f06e215_750H"
+  }, {
+    "id": "0002",
+    "imgUrl": "https://img.dmallcdn.com/mIndex/201809/f132b92d-0963-47ba-bc77-ce9da9457a98_750H"
+  },{
+    "id": "0003",
+    "imgUrl": "https://img.dmallcdn.com/mIndex/201809/fa4a9136-ba67-410b-aaf1-0a96ff98ce78_750H"
+  },{
+    "id": "0004",
+    "imgUrl": "https://img.dmallcdn.com/mIndex/201809/cc851ff1-068a-4c9d-965b-5cdec77bbd3e_750H"
+  },{
+    "id": "0005",
+    "imgUrl": "https://img.dmallcdn.com/mIndex/201809/b5b1c9a8-c336-4b65-8d5c-aa6433bdde98_750H"
+  }]
+}
