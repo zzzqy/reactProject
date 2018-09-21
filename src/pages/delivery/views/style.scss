@@ -1,0 +1,32 @@
+.am-navbar-left{
+    padding: 0;    
+}
+.imgSize{
+    width:.25rem;
+    border:1px solid #ccc;
+    border-radius:50%
+}
+.am-tabs-default-bar-top .am-tabs-default-bar-content, .am-tabs-default-bar-bottom .am-tabs-default-bar-content{
+    width: 40%;
+    margin-left: .06rem
+}
+.am-tabs-default-bar-tab-active{
+    color: orange
+}
+.am-grid{
+    margin-top: .1rem;
+    padding-bottom: .05rem;
+    background: #fff;
+    border-bottom: 1px solid #efefef;
+}
+.am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content .am-grid-icon{
+    margin-top: .02rem;
+    width: 100%!important;
+}
+.am-grid .am-flexbox .am-flexbox-item .am-grid-item-content .am-grid-item-inner-content .am-grid-text{
+    margin-top: 0;
+}
+.goImg{
+    width:100%;
+    height:1.5rem
+}
