@@ -1,0 +1,233 @@
+{
+    "ret":true,
+    "dataList": [
+        {
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/13336179-8c72-43f9-9cd0-e6bca5b74fcc_750H",
+            "name": "楼层图-极致生鲜分栏-O2O",
+            "detailList": [
+                {
+                    "sell": true,
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "stock": 11,
+                    "title": "安岳柠檬【精】4粒",
+                    "promotionPrice": 9.90,
+                    "price": "",
+                    "imageUrl": "https://img.dmallcdn.com/20180911/ef82b64e-f144-497b-bf74-6b5d0adc8de0_360x360H"
+                },
+                {
+                    "sell": true,
+                    "promotionPrice": 7.98,
+                    "price": 8.80,
+                    "stock": 9,
+                    "title": "白心火龙果【精】1粒",
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "imageUrl": "https://img.dmallcdn.com/20180911/d6588428-b688-483f-a6f3-ec6f2e4386c1_360x360H"
+                },
+                {
+                    "title": "百香果【精】150g",
+                    "cornerSign":  "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "stock": 10,
+                    "promotionPrice": 59.8,
+                    "price": "",
+                    "sell": true,
+                    "imageUrl": "https://img.dmallcdn.com/20180718/65395e19-b14e-44ba-88b5-2d0f8bea3a88_360x360H"
+                },
+                {
+                    "title": "西红柿  【精】  1.1kg",
+                    "promotionPrice": 10.98,
+                    "stock": 97,
+                    "price": 12.00,
+                    "sell": true,
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "imageUrl": "https://img.dmallcdn.com/20180911/ff22f682-f30f-4935-aec0-57b52d853e79_360x360H"
+                },
+                {
+                    "cornerSign":"",                      
+                    "promotionPrice": 55.0,
+                    "stock": 28,
+                    "price": 68.0,                       
+                    "sell": true,                   
+                    "title": "黄瓜 【精】600g",                  
+                    "imageUrl": "https://img.dmallcdn.com/20180906/7f975581-e27a-49b4-a1aa-585f30e64c11_360x360H"
+                },
+                {
+                    "cornerSign": "",
+                    "promotionPrice": 79.8,
+                    "stock": 11,
+                    "price": 99.0,
+                    "sell": true,    
+                    "title": "沙地红心蜜薯 【精】 1kg",
+                    "imageUrl": "https://img.dmallcdn.com/20180809/ba5928a8-c634-49dd-bf3c-9f46852f9b1e_360x360H"
+                },
+                {
+                    "cornerSign": "",
+                    "promotionPrice": 21.90,
+                    "stock": 518,
+                    "price": 23.90,
+                    "sell": true,
+                    "title": "缤纷田园鲜鸡蛋 30枚",
+                    "imageUrl": "https://img.dmallcdn.com/20170727/a27d485b-8382-4638-935f-58a247390eb1_360x360H"
+                },
+                {
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H" ,
+                    "stock": 67,
+                    "sell": true,
+                    "title": "鸟王咸鸭蛋 6枚",
+                    "promotionPrice": 19.90,
+                    "price":"",
+                    "imageUrl": "https://img.dmallcdn.com/20180119/608f398b-31aa-4884-bb53-142e62a7a719_360x360H"
+                },
+                {
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "promotionPrice": 22.90,
+                    "stock": 214,
+                    "price": 29.50,
+                    "sell": true,
+                    "title": "桃谷香鲜鸡蛋 30枚",
+                    "imageUrl": "https://img.dmallcdn.com/20161225/29d9f955-b970-48a2-80c6-846e8436c0ec_360x360H"
+                },
+                {
+                    "cornerSign": "",
+                    "promotionPrice": 18.50,
+                    "stock": 998,
+                    "price": 22.90,
+                    "sell": true,
+                    "title": "通脊【散】 500g",
+                    "imageUrl": "https://img.dmallcdn.com/20180823/85f1accc-e711-40bb-a438-b604d4747ca1_360x360H"
+                },
+                {
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "promotionPrice": 12.98,
+                    "price": "",
+                    "stock": 121,
+                    "sell": true,
+                    "title": "精前腿 400g",
+                    "imageUrl": "https://img.dmallcdn.com/20180408/5c212a57-d799-41b0-a287-cc07b1ac88cf_360x360H"
+                },
+                {
+                    "cornerSign":  "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "promotionPrice": 49.90,
+                    "stock": 997,
+                    "price": 59.90,
+                    "sell": true,                   
+                    "title": "腔排【散】 1kg",
+                    "imageUrl": "https://img.dmallcdn.com/20180404/2db950a4-b059-4912-a0eb-123805b03cd1_360x360H"
+                }
+            ]
+        },
+        {
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/a4ac2c13-da0e-485d-926a-47e479d94b0d_750H",
+            "name": "楼层图-生活常备分栏-O2O",
+            "detailList": [
+                {
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "promotionPrice": 18.9,
+                    "stock": 7309,
+                    "price": 24.8,
+                    "sell": true,
+                    "title": "蒙牛纯牛奶利乐枕 240ml",
+                    "imageUrl": "https://img.dmallcdn.com/20160728/5008cb33-49a2-4fa9-800c-23f39c7818d2_360x360H"
+                   
+                },
+                {
+                    "cornerSign":"https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",                      
+                    "promotionPrice": 4.90,
+                    "price": "",
+                    "stock": 7.39,
+                    "sell": true,
+                    "title": "伊利味可滋香蕉牛奶 240ml",                           
+                    "imageUrl": "https://img.dmallcdn.com/20180718/b7373eb1-ed73-4682-8ed3-9cc4b0d02967_360x360H"                 
+                },
+                {
+                    "cornerSign":"https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "promotionPrice": 49.50,
+                    "stock": 52,
+                    "price": 63.60,
+                    "sell": true,                   
+                    "title": "光明莫斯利安巴氏杀菌酸牛奶 200g*12",
+                    "imageUrl": "https://img.dmallcdn.com/20180718/337e8e7f-aed5-40c9-ace6-02d0d5b88523_360x360H"
+                },
+                {                 
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",                   
+                    "promotionPrice": 69.0,
+                    "stock": 1332,
+                    "price": 99.0,
+                    "sell": true,                      
+                    "title": "蒙牛风味发酵乳 原味 100g*8",                           
+                    "imageUrl": "https://img.dmallcdn.com/20170817/22bb09bf-1188-41ff-9829-09b8d4e5fd99_360x360H"                  
+                },
+                {                 
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",                  
+                    "promotionPrice": 25.00,
+                    "stock": 153,                       
+                    "sell": true,                    
+                    "title": "伊利褐色炭烧风味发酵乳 1.05kg 新老包装随机",                          
+                    "imageUrl": "https://img.dmallcdn.com/20180726/98e5517a-f316-40a2-b7ab-9b0e8f5004c8_360x360H"
+                },
+                {
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "stock": 336,
+                    "sell": true,
+                    "title": "养乐多活菌型乳酸菌乳饮品 100ml*5",
+                    "price":"",                         
+                    "promotionPrice": 12.00,
+                    "imageUrl": "https://img.dmallcdn.com/20180718/aa936761-494f-47af-995e-804f1f91a3bd_360x360H"
+                },
+                {
+                    "cornerSign": "",                      
+                    "promotionPrice": 9.80,
+                    "stock": 2,
+                    "price": 13.80,
+                    "sell": true,
+                    "title": "思念灌汤水饺家庭装 三鲜 1000g",
+                    "imageUrl": "https://img.dmallcdn.com/20170817/1c8d4800-8036-47ab-bae4-4a21e5a04a92_360x360H"
+                },
+                {                 
+                    "cornerSign": "",                      
+                    "promotionPrice": 9.90,
+                    "stock": 8,
+                    "price": 19.90,
+                    "sell": true,
+                    "title": "猫不闻猪肉大葱包 1kg",              
+                    "imageUrl": "https://img.dmallcdn.com/20170801/3893beaf-ea74-4b24-9aec-748f0ac7591d_360x360H"
+                },
+                {
+                    "cornerSign": "",                      
+                    "promotionPrice": 9.60,
+                    "stock": 150,
+                    "price": 14.90,                    
+                    "sell": true,
+                    "title": "三全上海馄饨 三鲜 500g",                       
+                    "imageUrl": "https://img.dmallcdn.com/20170817/a4dee299-bcfb-4377-8f76-08cc3004062c_360x360H"
+                },
+                {
+                    "cornerSign": "",                    
+                    "promotionPrice": 15.80,
+                    "stock": 591,
+                    "price": 22.90,
+                    "sell": true,                        
+                    "title": "双汇王中王优级火腿肠 60g*10",
+                    "imageUrl": "https://img.dmallcdn.com/20180718/01ebdc70-f5ac-44d5-b5ff-3741472d5210_360x360H"
+                },
+                {                  
+                    "cornerSign": "",
+                    "promotionPrice": 28.90,
+                    "stock": 46,
+                    "price": 33.80,
+                    "sell": true,
+                    "title": "育青鸡 580g",
+                    "imageUrl": "https://img.dmallcdn.com/20161112/2c3f4063-8571-47d2-8aa7-a7fd4fe326e9_360x360H"      
+                },
+                {                  
+                    "cornerSign": "",
+                    "promotionPrice": 98.80,
+                    "stock": 52,
+                    "price": 126.00,
+                    "sell": true,                    
+                    "title": "全聚德烤鸭匠心大三角礼袋 1.18kg",         
+                    "imageUrl": "https://img.dmallcdn.com/20161207/2f79ef3e-3dc5-412b-a45f-fddffd108238_360x360H"
+                }
+            ]
+        }
+    ]
+}

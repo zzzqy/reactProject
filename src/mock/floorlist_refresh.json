@@ -1,0 +1,207 @@
+{
+    "ret":true,
+    "dataList": [
+        {
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/06bcea9d-684c-4239-adb9-09933a745f81_750H",
+            "name": "楼层图-食品饮料分栏-O2O",
+            "detailList": [
+                {
+                    "sell": true,
+                    "cornerSign": "",
+                    "stock": 200,
+                    "title":"哈尔滨小麦王听啤 500ml*3 新老包装随机",
+                    "promotionPrice": 8.00,
+                    "price": 12.00,
+                    "imageUrl": "https://img.dmallcdn.com/20180607/198cb27d-90d3-448f-909b-8ae464872485_360x360H"
+                },
+                {
+                    "sell": true,
+                    "promotionPrice": 26.0,
+                    "price": "",
+                    "stock":27.17,
+                    "title": "燕京听啤 330ml",
+                    "cornerSign": "",
+                    "imageUrl":  "https://img.dmallcdn.com/20170817/240bbb50-52fa-44e0-9a20-20f2f347b6c1_360x360H"
+                },
+                {
+                    "title": "雪花勇闯天涯礼盒装8度 500ml*6",
+                    "cornerSign":  "",
+                    "stock": 60,
+                    "promotionPrice": 17.90,
+                    "price": 24.00,
+                    "sell": true,
+                    "imageUrl": "https://img.dmallcdn.com/20170807/32f55845-3a21-470d-9431-f7747d9c18ba_360x360H"
+                },
+                {
+                    "title": "哈尔滨冰爽听啤 330ml*6",
+                    "promotionPrice": 109.0,
+                    "stock": 139,
+                    "price": 150.0,
+                    "sell": true,
+                    "cornerSign": "",
+                    "imageUrl": "https://img.dmallcdn.com/20180718/af9138b8-d56a-43d3-915c-b7fa1d4d4eea_360x360H"
+                },
+                {
+                    "cornerSign":"",                      
+                    "promotionPrice": 5.30,
+                    "stock":46128,
+                    "price": 5.90,                       
+                    "sell": true,                   
+                    "title": "可口可乐 2L",                  
+                    "imageUrl":"https://img.dmallcdn.com/20170817/6d7efde9-ad3b-4cc1-8976-9ed45c763f07_360x360H"
+                },
+                {
+                    "cornerSign": "",
+                    "promotionPrice": 3.60,
+                    "stock":2503,
+                    "price": 3.70,
+                    "sell": true,    
+                    "title": "养元核桃乳 低糖 240ml",
+                    "imageUrl":  "https://img.dmallcdn.com/20180718/de059696-78ad-48be-aa73-c0b8fb32af99_360x360H"
+                },
+                {
+                    "cornerSign": "",
+                    "promotionPrice": 69.00,
+                    "stock": 12,
+                    "price": 108.00,
+                    "sell": true,
+                    "title": "江中猴姑米稀酥性饼干 720g",
+                    "imageUrl": "https://img.dmallcdn.com/20180911/9608a235-43eb-4642-8d04-8e7d6ecb167c_360x360H"
+                },
+                {
+                    "cornerSign": "" ,
+                    "stock": 8,
+                    "sell": true,
+                    "title": "沃隆每日坚果 25g*30",
+                    "promotionPrice": 139.00,
+                    "price":168.00,
+                    "imageUrl": "https://img.dmallcdn.com/20161016/69413dd0-8d25-49eb-81ac-52e6a23c148d_360x360H"
+                },
+                {
+                    "cornerSign": "",
+                    "promotionPrice": 59.00,
+                    "stock": 3,
+                    "price": 85.00,
+                    "sell": true,
+                    "title": "丹麦皇冠曲奇 681g",
+                    "imageUrl":  "https://img.dmallcdn.com/20161112/1396f49a-67c8-40c8-bbb5-49de7e2c735e_360x360H"
+                }
+            ]
+        },
+        {
+            "imageUrl":  "https://img.dmallcdn.com/mIndex/201809/7999996e-5669-4027-83f3-0c1761169b9c_750H",
+            "name": "楼层图-百货分栏-O2O",
+            "detailList": [
+                {
+                    "cornerSign": "",
+                    "promotionPrice": 65.00,
+                    "stock": 17,
+                    "price": 79.90,
+                    "sell": true,
+                    "title": "奥妙深层洁净洗衣液 4.5Kg",
+                    "imageUrl":"https://img.dmallcdn.com/20170817/10c7f8c7-9b8b-455f-a301-233065ce8be7_360x360H"
+                   
+                },
+                {
+                    "cornerSign":"",                      
+                    "promotionPrice": 29.90,
+                    "price": 32.60,
+                    "stock": 271,
+                    "sell": true,
+                    "title": "顺清柔新特级环保卫生纸 10+2卷",                           
+                    "imageUrl": "https://img.dmallcdn.com/20180906/38ef669b-a474-4338-9169-f271661a7d6a_360x360H"                 
+                },
+                {
+                    "cornerSign":"https://img.dmallcdn.com/cornerMarkV3/237/2_360x360H",
+                    "promotionPrice": 17.91,
+                    "stock": 130,
+                    "price": 19.90,
+                    "sell": true,                   
+                    "title": "唯本生活抽取式面巾纸三层120抽*10连包",
+                    "imageUrl": "https://img.dmallcdn.com/20180920/668e5c71-8ba7-4714-9d82-0ab209d0d776_360x360H"
+                },
+                {
+                    "cornerSign": "",                   
+                    "promotionPrice": 21.90,
+                    "stock": 25,
+                    "price": 24.90,
+                    "sell": true,                      
+                    "title":  "云南白药牙膏 留兰香型 120g",                           
+                    "imageUrl":  "https://img.dmallcdn.com/20180723/a7210941-0ec8-4371-b735-49aa0deb0f12_360x360H"
+                },
+                {                 
+                    "cornerSign": "",                  
+                    "promotionPrice": 54.90,
+                    "stock": 6,   
+                    "price":59.00,                    
+                    "sell": true,                    
+                    "title": "力士新活炫亮去屑洗发乳 750ml",                          
+                    "imageUrl": "https://img.dmallcdn.com/20180615/f7ab895e-a21d-4c74-99aa-e98d3f42ef03_360x360H"
+                },
+                {
+                    "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
+                    "stock": 12,
+                    "sell": true,
+                    "title": "拉芳芦荟保湿修复护发素 1L",
+                    "price":11.90,                         
+                    "promotionPrice": 12.00,
+                    "imageUrl": "https://img.dmallcdn.com/20161129/be1dc37b-db71-47d6-8859-6b7497e8034f_360x360H"
+                },
+                {
+                    "cornerSign": "",                      
+                    "promotionPrice": 12.90,
+                    "stock": 204,
+                    "price": 13.80,
+                    "sell": true,
+                    "title": "金鱼洗涤灵 1.29kg+200g",
+                    "imageUrl": "https://img.dmallcdn.com/20170807/b0e38c36-2477-4214-9d15-1e5a06194fb2_360x360H"
+                },
+                {                 
+                    "cornerSign": "",                      
+                    "promotionPrice": 12.90,
+                    "stock": 55,
+                    "price": 15.80,
+                    "sell": true,
+                    "title": "金鱼洗涤灵 2.05kg",        
+                    "imageUrl":  "https://img.dmallcdn.com/20180906/ad8aac6a-3f1d-494b-acd7-a657eae3cded_360x360H"
+                },
+                {
+                    "cornerSign": "",                      
+                    "promotionPrice": 23.90,
+                    "stock": 11,
+                    "price": 28.50,                    
+                    "sell": true,
+                    "title": "洛娃强力油烟净 柠檬香 500ml*2",                       
+                    "imageUrl": "https://img.dmallcdn.com/20161112/3a09603a-548d-4388-8bda-942ab8f18c6c_360x360H"
+                },
+                {
+                    "cornerSign": "",                    
+                    "promotionPrice": 9.80,
+                    "stock": 12,
+                    "price": 17.50,
+                    "sell": true,                        
+                    "title": "妙洁点断式保鲜袋实惠装",
+                    "imageUrl": "https://img.dmallcdn.com/20180228/c275020f-8fe0-4013-a508-328d5ca8aa08_360x360H"
+                },
+                {                  
+                    "cornerSign": "",
+                    "promotionPrice": 13.70,
+                    "stock": 23,
+                    "price": 16.12,
+                    "sell": true,
+                    "title": "妙洁B型厚实超值装垃圾袋大号50*60cm",
+                    "imageUrl": "https://img.dmallcdn.com/20180718/1abcb1db-ecf3-4018-818e-54a0652e540a_360x360H"
+                },
+                {                  
+                    "cornerSign": "",
+                    "promotionPrice": 44.96,
+                    "stock": 13,
+                    "price": 52.90,
+                    "sell": true,                    
+                    "title": "妙洁魔吸胶棉神奇拖把 1把",         
+                    "imageUrl": "https://img.dmallcdn.com/20161112/ab6072b7-de94-4852-adec-bf58747fd102_360x360H"
+                }
+            ]
+        }
+    ]
+}
