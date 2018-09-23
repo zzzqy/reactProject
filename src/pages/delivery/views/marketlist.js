@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
  
-import './marketStyls.scss'
+import './marketStyles.scss'
 
 import { fetchData } from '../../../utils/commonUtil'
 
@@ -15,7 +15,7 @@ class MarketList extends Component {
     }
     render() {
         return (
-            <div className="marketGrid">
+            <div id="marketGrid">
                 <Grid 
                     data={this.state.marketlist} 
                     columnNum={3} 

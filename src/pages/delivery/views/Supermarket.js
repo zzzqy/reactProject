@@ -43,12 +43,15 @@ class SuperMarket extends Component {
                         </a>
                     ))}
                 </Carousel>
-                <Grid 
-                    data={this.state.gridlist} 
-                    activeStyle={false} 
-                    hasLine={false}
-                    columnNum={5}
-                />
+                <div className="typelist">
+                    <Grid 
+                        data={this.state.gridlist} 
+                        activeStyle={false} 
+                        hasLine={false}
+                        columnNum={5}
+                    />
+                </div>
+                
                 <AdvList></AdvList>
                 <ActiveFloor></ActiveFloor>
             </Fragment>

@@ -14,6 +14,10 @@ module.exports = function(){
         swiperlist,
         gridlist,
         sportlist,
+        marketlist,
+        lifelist,
+        floorlist,
+        floorlist_refresh,
         orderList,
         serverList,
         iconfontList
