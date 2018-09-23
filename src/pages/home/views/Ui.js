@@ -106,6 +106,7 @@ class HomeUi extends Component {
             <TabBar.Item
                 title="购物车"
                 key="cart"
+                badge={1}
                 icon={<div style={{
                     width: '22px',
                     height: '22px',
