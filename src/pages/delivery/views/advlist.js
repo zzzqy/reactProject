@@ -22,9 +22,9 @@ class AdvList extends Component {
                                 <a><img src={this.state.sportlist[1].imgUrl} alt="" className="titleImg" /></a>
                             </li>   
                         </ul>
-                        <ul>
-                            <li>
-                                <a><img src={this.state.sportlist[2].imgUrl} alt="" /></a>
+                        <ul className="advStyle">
+                            <li className="advLiStyle">
+                                <a><img src={this.state.sportlist[2].imgUrl} alt="" className="advLiImg"/></a>
                                 <span>
                                     <a><img src={this.state.sportlist[3].imgUrl} alt="" /></a>
                                     <a><img src={this.state.sportlist[4].imgUrl} alt="" /></a>
