@@ -14,7 +14,7 @@
 .am-tabs-default-bar-tab-active{
     color: orange
 }
-.am-grid{
+.typelist .am-grid{
     margin-top: .1rem;
     padding-bottom: .05rem;
     background: #fff;
@@ -26,7 +26,10 @@
         margin-top: 0;
     }
 }
-.am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content .am-grid-icon{
+.typelist .am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content{
+    height: 100%;
+}
+.typelist .am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content .am-grid-icon{
     margin-top: .02rem;
     width: 100%!important;
 }
@@ -36,7 +39,7 @@
 }
 .titleImg{
     width:100%;
-}
+} 
 .advStyle{
     width: 100%;
     background: #fff;
