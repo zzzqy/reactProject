@@ -32,23 +32,25 @@ class DeliveryUi extends Component {
                     ]}
                     style={{position:"relative"}}
                     icon={<Icon type="right" style={{color:"#ccc",position:"absolute",left: '1.14rem', top:'25%'}}/>}
-                    onLeftClick={() => console.log('onLeftClick')} 
+                    onLeftClick={() => {
+                        
+                    }} 
                     rightContent={[
-                        <Icon key="0" type="search" style={{ marginRight: '16px',color:"#ccc"}}/>,
+                        <Icon key="0" type="search" style={{ marginRight: '16px',color:"#ccc"}} onClick={() => {
+                            console.log("aaaa")   
+                        }}/>,
                         <img key="1" className="imgSize" src={logo} alt="" />
                     ]}
                 />          
                 <StickyContainer>
-                    <Tabs tabs={this.state.tabs}
+                    <Tabs 
+                        tabs={this.state.tabs}
                         tabBarUnderlineStyle={{border:"none",borderBottom:"2px solid orange"}}
                         tabBarInactiveTextColor={{color:"#ccc"}}
                         tabBarActiveTextColor={{color:"orange"}}
                         swipeable={false}
                     >
                         <SuperMarket></SuperMarket>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100%', backgroundColor: '#fff' }}>
-                            Content of second tab
-                        </div>
                     </Tabs>
                 </StickyContainer>
             </Fragment>

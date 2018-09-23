@@ -3,6 +3,8 @@ import React, { Component,Fragment } from 'react'
 import { Carousel,Grid } from 'antd-mobile'
 
 import AdvList from './advlist'
+import ActiveFloor from './ActiveFloor'
+
 import { fetchData } from '../../../utils/commonUtil'
 
 class SuperMarket extends Component {
@@ -48,6 +50,7 @@ class SuperMarket extends Component {
                     columnNum={5}
                 />
                 <AdvList></AdvList>
+                <ActiveFloor></ActiveFloor>
             </Fragment>
         );
     }
