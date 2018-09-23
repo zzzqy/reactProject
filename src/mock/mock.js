@@ -17,16 +17,12 @@ module.exports = function(){
         swiperlist,
         gridlist,
         sportlist,
-<<<<<<< HEAD
         marketlist,
         lifelist,
         floorlist,
-        floorlist_refresh
-=======
-
+        floorlist_refresh,
         orderList,
         serverList,
         iconfontList
->>>>>>> ljh
     }
 }
