@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 
 import {Delivery} from '../../delivery'
+import { Classify }from "../../classify"
 
 import { TabBar } from 'antd-mobile'; 
 
@@ -76,7 +77,7 @@ class HomeUi extends Component {
                 }}
                 data-seed="classify"
             >
-                <div>lala</div>
+                <Classify/>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
             <TabBar.Item
