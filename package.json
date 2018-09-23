@@ -72,12 +72,12 @@
     "test": "node scripts/test.js --env=jsdom",
     "mock": "json-server ./src/mock/mock.js -p 9000"
   },
-  "proxy":{
-    "/api":{
-      "target":"http://localhost:9000",
-      "changeOrigin":true,
-      "pathRewrite":{
-        "^/api":"/"
+  "proxy": {
+    "/api": {
+      "target": "http://localhost:9000",
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/api": "/"
       }
     }
   },

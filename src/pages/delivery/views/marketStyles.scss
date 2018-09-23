@@ -1,10 +1,17 @@
-.marketGrid{
+#marketGrid{
     .am-grid{
         margin-top: 0;
         .am-flexbox {
-             margin-bottom: 0
+             margin-bottom: 0;
         }
     }
+}
+#marketGrid .am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content .am-grid-icon{
+    margin-top: 0;
+    width: 100% !important;
+}
+#marketGrid .am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content{
+    height: 100%;
 }
 .life_01{
     width: 100%;
