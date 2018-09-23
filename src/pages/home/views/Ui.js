@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 
 import {Delivery} from '../../delivery'
+import { Mine } from '../../mine'
+import { Vip } from '../../vip'
 
 import { TabBar } from 'antd-mobile'; 
 
@@ -19,7 +21,7 @@ class HomeUi extends Component {
     constructor(props){
         super(props);
         this.state = {
-            selectedTab: 'delivery',
+            selectedTab: 'vip',
             hidden: false
         }
     }
@@ -100,7 +102,7 @@ class HomeUi extends Component {
                 }}
                 data-seed="vip"
             >
-                <div>vip</div>
+                <Vip></Vip>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
             <TabBar.Item
@@ -148,7 +150,7 @@ class HomeUi extends Component {
                 }}
                 data-seed="mine"
             >
-                <div>mine</div>
+                <Mine></Mine>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
         </TabBar>

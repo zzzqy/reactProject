@@ -1,0 +1,26 @@
+{
+    "ret": true,
+    "data": {
+      "list":[{
+          "id": "0001",
+          "title": "分享有礼",
+          "imgUrl": "/iconfont/iconfont_1/packet.svg"
+        }, {
+          "id": "0002",
+          "title": "邀请有礼",
+          "imgUrl": "/iconfont/iconfont_1/invite.svg"
+        },{
+          "id": "0003",
+          "title": "签到享礼",
+          "imgUrl": "/iconfont/iconfont_1/sign.svg"
+        },{
+            "id": "0004",
+            "title": "线下特惠",
+            "imgUrl": "/iconfont/iconfont_1/discount.svg"
+          }, {
+            "id": "0005",
+            "title": "全部权益",
+            "imgUrl": "/iconfont/iconfont_1/all.svg"
+          }]
+    }
+  }

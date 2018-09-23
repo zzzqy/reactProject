@@ -1,0 +1,46 @@
+{
+    "ret": true,
+    "data": {
+      "list":[{
+          "id": "0001",
+          "title": "会员中心",
+          "imgUrl": "/iconfont/iconfont_1/vip.svg"
+        }, {
+          "id": "0002",
+          "title": "收货地址",
+          "imgUrl": "/iconfont/iconfont_1/address.svg"
+        },{
+          "id": "0003",
+          "title": "帮助中心",
+          "imgUrl": "/iconfont/iconfont_1/help.svg"
+        },{
+            "id": "0004",
+            "title": "客服电话",
+            "imgUrl": "/iconfont/iconfont_1/server.svg"
+          }, {
+            "id": "0005",
+            "title": "体验App",
+            "imgUrl": "/iconfont/iconfont_1/experience.svg"
+          },{
+            "id": "0006",
+            "title": "发票中心",
+            "imgUrl": "/iconfont/iconfont_1/ticket.svg"
+          },{
+            "id": "0007",
+            "title": "绑卡",
+            "imgUrl": "/iconfont/iconfont_1/card.svg"
+          }, {
+            "id": "0008",
+            "title": "自由购",
+            "imgUrl": "/iconfont/iconfont_1/buy.svg"
+          },{
+            "id": "0009",
+            "title": "售后/退款",
+            "imgUrl": "/iconfont/iconfont_1/sale.svg"
+          },{
+            "id": "0010",
+            "title": "我先买的",
+            "imgUrl": "/iconfont/iconfont_1/like.svg"
+          }]
+    }
+  }
