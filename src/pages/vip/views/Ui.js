@@ -11,7 +11,6 @@ import img3 from "../../../assets/images/img/img3.jpg"
 import img4 from "../../../assets/images/img/img4.jpg"
 import img5 from "../../../assets/images/img/img5.jpg"
 import img6 from "../../../assets/images/img/img6.jpg"
-import img7 from "../../../assets/images/img/img7.jpg"
 import img8 from "../../../assets/images/img/img8.jpg"
 import img9 from "../../../assets/images/img/img9.jpg"
 import img10 from "../../../assets/images/img/img10.jpg"
@@ -20,8 +19,6 @@ import img12 from "../../../assets/images/img/img12.jpg"
 import img13 from "../../../assets/images/img/img13.jpg"
 import img14 from "../../../assets/images/img/img14.jpg"
 import img15 from "../../../assets/images/img/img15.jpg"
-import img16 from "../../../assets/images/img/img16.jpg"
-
                                 
 class Vip extends Component {
     constructor(props){

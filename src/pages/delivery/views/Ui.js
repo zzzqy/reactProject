@@ -32,9 +32,6 @@ class DeliveryUi extends Component {
                     ]}
                     style={{position:"relative"}}
                     icon={<Icon type="right" style={{color:"#ccc",position:"absolute",left: '1.14rem', top:'25%'}}/>}
-                    onLeftClick={() => {
-                        
-                    }} 
                     rightContent={[
                         <Icon key="0" type="search" style={{ marginRight: '16px',color:"#ccc"}} onClick={() => {
                             console.log("aaaa")   

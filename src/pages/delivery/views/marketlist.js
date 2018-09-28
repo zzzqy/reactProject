@@ -21,6 +21,9 @@ class MarketList extends Component {
                     columnNum={3} 
                     itemStyle={{ height: '1.5rem'}} 
                     hasLine={false}
+                    onClick={(el,index) => {
+                        console.log(el)
+                    }}
                 />
             </div>
             
