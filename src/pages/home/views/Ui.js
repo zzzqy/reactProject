@@ -1,8 +1,10 @@
 import React, { Component } from 'react'
+// import { Route,Switch,withRouter} from "react-router-dom"
 
 import {Delivery} from '../../delivery'
 import { Mine } from '../../mine'
 import { Vip } from '../../vip'
+// import { List } from "../../list"
 
 import { TabBar } from 'antd-mobile'; 
 
@@ -21,7 +23,7 @@ class HomeUi extends Component {
     constructor(props){
         super(props);
         this.state = {
-            selectedTab: 'vip',
+            selectedTab: 'delivery',
             hidden: false
         }
     }
@@ -54,6 +56,11 @@ class HomeUi extends Component {
                 }}
                 data-seed="delivery"
             >
+                {/* <Switch>
+                    <Route path="/" exact component={Delivery}/>
+                    <Route path="/List" component={List}/>                 
+                </Switch>  */}
+        
                 <Delivery></Delivery>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
@@ -127,7 +134,7 @@ class HomeUi extends Component {
                 }}
                 data-seed="cart"
             >
-                <div>lala</div>
+                <div>lalala</div>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
             <TabBar.Item
