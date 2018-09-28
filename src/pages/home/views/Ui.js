@@ -1,6 +1,12 @@
 import React, { Component } from 'react'
 
+import { Route,withRouter } from 'react-router-dom'
+
 import {Delivery} from '../../delivery'
+import {Cart} from '../../cart'
+import { Mine } from '../../mine'
+import { Vip } from '../../vip'
+import  Typelist  from '../../typelist'
 
 import { TabBar } from 'antd-mobile'; 
 
@@ -49,11 +55,12 @@ class HomeUi extends Component {
                     this.setState({
                         selectedTab: 'delivery',
                     });
+                    this.props.history.push("/")
                 }}
                 data-seed="delivery"
             >
-                <Delivery></Delivery>
-                {/* {this.renderContent('Life')} */}
+                <Route path="/"  exact component={Delivery} />
+               
             </TabBar.Item>
             <TabBar.Item
                 title="分类"
@@ -100,13 +107,12 @@ class HomeUi extends Component {
                 }}
                 data-seed="vip"
             >
-                <div>vip</div>
-                {/* {this.renderContent('Life')} */}
+                <Vip></Vip>
             </TabBar.Item>
             <TabBar.Item
                 title="购物车"
                 key="cart"
-                badge={1}
+                badge={this.props.goodNum}
                 icon={<div style={{
                     width: '22px',
                     height: '22px',
@@ -125,8 +131,7 @@ class HomeUi extends Component {
                 }}
                 data-seed="cart"
             >
-                <div>lala</div>
-                {/* {this.renderContent('Life')} */}
+                <Cart></Cart>
             </TabBar.Item>
             <TabBar.Item
                 title="我的"
@@ -149,7 +154,7 @@ class HomeUi extends Component {
                 }}
                 data-seed="mine"
             >
-                <div>mine</div>
+                <Mine></Mine>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
         </TabBar>
@@ -157,4 +162,4 @@ class HomeUi extends Component {
     }
 }
                                 
-export default HomeUi;
+export default withRouter(HomeUi);

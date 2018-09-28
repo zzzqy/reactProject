@@ -6,6 +6,7 @@
             "name": "楼层图-食品饮料分栏-O2O",
             "detailList": [
                 {
+                    "id":"0022",
                     "sell": true,
                     "cornerSign": "",
                     "stock": 200,
@@ -15,6 +16,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20180607/198cb27d-90d3-448f-909b-8ae464872485_360x360H"
                 },
                 {
+                    "id":"0023",
                     "sell": true,
                     "promotionPrice": 26.0,
                     "price": "",
@@ -24,6 +26,7 @@
                     "imageUrl":  "https://img.dmallcdn.com/20170817/240bbb50-52fa-44e0-9a20-20f2f347b6c1_360x360H"
                 },
                 {
+                    "id":"0024",
                     "title": "雪花勇闯天涯礼盒装8度 500ml*6",
                     "cornerSign":  "",
                     "stock": 60,
@@ -33,6 +36,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20170807/32f55845-3a21-470d-9431-f7747d9c18ba_360x360H"
                 },
                 {
+                    "id":"0025",
                     "title": "哈尔滨冰爽听啤 330ml*6",
                     "promotionPrice": 109.0,
                     "stock": 139,
@@ -42,6 +46,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20180718/af9138b8-d56a-43d3-915c-b7fa1d4d4eea_360x360H"
                 },
                 {
+                    "id":"0026",
                     "cornerSign":"",                      
                     "promotionPrice": 5.30,
                     "stock":46128,
@@ -51,6 +56,7 @@
                     "imageUrl":"https://img.dmallcdn.com/20170817/6d7efde9-ad3b-4cc1-8976-9ed45c763f07_360x360H"
                 },
                 {
+                    "id":"0027",
                     "cornerSign": "",
                     "promotionPrice": 3.60,
                     "stock":2503,
@@ -60,6 +66,7 @@
                     "imageUrl":  "https://img.dmallcdn.com/20180718/de059696-78ad-48be-aa73-c0b8fb32af99_360x360H"
                 },
                 {
+                    "id":"0028",
                     "cornerSign": "",
                     "promotionPrice": 69.00,
                     "stock": 12,
@@ -69,6 +76,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20180911/9608a235-43eb-4642-8d04-8e7d6ecb167c_360x360H"
                 },
                 {
+                    "id":"0029",
                     "cornerSign": "" ,
                     "stock": 8,
                     "sell": true,
@@ -78,6 +86,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20161016/69413dd0-8d25-49eb-81ac-52e6a23c148d_360x360H"
                 },
                 {
+                    "id":"0030",
                     "cornerSign": "",
                     "promotionPrice": 59.00,
                     "stock": 3,
@@ -93,6 +102,7 @@
             "name": "楼层图-百货分栏-O2O",
             "detailList": [
                 {
+                    "id":"0032",
                     "cornerSign": "",
                     "promotionPrice": 65.00,
                     "stock": 17,
@@ -103,6 +113,7 @@
                    
                 },
                 {
+                    "id":"0033",
                     "cornerSign":"",                      
                     "promotionPrice": 29.90,
                     "price": 32.60,
@@ -112,6 +123,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20180906/38ef669b-a474-4338-9169-f271661a7d6a_360x360H"                 
                 },
                 {
+                    "id":"0034",
                     "cornerSign":"https://img.dmallcdn.com/cornerMarkV3/237/2_360x360H",
                     "promotionPrice": 17.91,
                     "stock": 130,
@@ -121,6 +133,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20180920/668e5c71-8ba7-4714-9d82-0ab209d0d776_360x360H"
                 },
                 {
+                    "id":"0035",
                     "cornerSign": "",                   
                     "promotionPrice": 21.90,
                     "stock": 25,
@@ -129,7 +142,8 @@
                     "title":  "云南白药牙膏 留兰香型 120g",                           
                     "imageUrl":  "https://img.dmallcdn.com/20180723/a7210941-0ec8-4371-b735-49aa0deb0f12_360x360H"
                 },
-                {                 
+                {  
+                    "id":"0036",               
                     "cornerSign": "",                  
                     "promotionPrice": 54.90,
                     "stock": 6,   
@@ -139,6 +153,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20180615/f7ab895e-a21d-4c74-99aa-e98d3f42ef03_360x360H"
                 },
                 {
+                    "id":"0037",
                     "cornerSign": "https://img.dmallcdn.com/cornerMarkV3/1373/1_360x360H",
                     "stock": 12,
                     "sell": true,
@@ -148,6 +163,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20161129/be1dc37b-db71-47d6-8859-6b7497e8034f_360x360H"
                 },
                 {
+                    "id":"0038",
                     "cornerSign": "",                      
                     "promotionPrice": 12.90,
                     "stock": 204,
@@ -156,7 +172,8 @@
                     "title": "金鱼洗涤灵 1.29kg+200g",
                     "imageUrl": "https://img.dmallcdn.com/20170807/b0e38c36-2477-4214-9d15-1e5a06194fb2_360x360H"
                 },
-                {                 
+                {       
+                    "id":"0039",          
                     "cornerSign": "",                      
                     "promotionPrice": 12.90,
                     "stock": 55,
@@ -166,6 +183,7 @@
                     "imageUrl":  "https://img.dmallcdn.com/20180906/ad8aac6a-3f1d-494b-acd7-a657eae3cded_360x360H"
                 },
                 {
+                    "id":"0040",
                     "cornerSign": "",                      
                     "promotionPrice": 23.90,
                     "stock": 11,
@@ -175,6 +193,7 @@
                     "imageUrl": "https://img.dmallcdn.com/20161112/3a09603a-548d-4388-8bda-942ab8f18c6c_360x360H"
                 },
                 {
+                    "id":"0041",
                     "cornerSign": "",                    
                     "promotionPrice": 9.80,
                     "stock": 12,
@@ -183,7 +202,8 @@
                     "title": "妙洁点断式保鲜袋实惠装",
                     "imageUrl": "https://img.dmallcdn.com/20180228/c275020f-8fe0-4013-a508-328d5ca8aa08_360x360H"
                 },
-                {                  
+                {   
+                    "id":"0042",               
                     "cornerSign": "",
                     "promotionPrice": 13.70,
                     "stock": 23,
@@ -192,7 +212,8 @@
                     "title": "妙洁B型厚实超值装垃圾袋大号50*60cm",
                     "imageUrl": "https://img.dmallcdn.com/20180718/1abcb1db-ecf3-4018-818e-54a0652e540a_360x360H"
                 },
-                {                  
+                {        
+                    "id":"0043",          
                     "cornerSign": "",
                     "promotionPrice": 44.96,
                     "stock": 13,
