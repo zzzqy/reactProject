@@ -11,12 +11,12 @@ class GoodNewsList extends React.Component{
       return( 
           this.state.Goodnews.map((v,i)=>{
               return(
-            <div className="goodinfo">
+            <div key={i} className="goodinfo">
              <img src={v.imgurl} alt=""/>
              <div className="info">
              <p>{v.wareName}</p>
-             <span><sup>$</sup>6.66</span>
-             <button>加入购物车</button>
+             <span><a style={{color:"black"}}>￥</a>{v.customPrice}</span>
+             <button >加入购物车</button>
              </div>
          </div>
               )
@@ -30,12 +30,13 @@ class GoodNewsList extends React.Component{
          return(
              {
                  imgurl:v.wareImgUrl,
-                 wareName:v.wareName
+                 wareName:v.wareName,
+                 customPrice:v.customPrice
              }
          )
      })
 })
-console.log(this.state.Goodnews)
+//console.log(this.state.Goodnews)
 
 }
 }

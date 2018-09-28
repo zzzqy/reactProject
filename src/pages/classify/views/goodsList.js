@@ -54,7 +54,7 @@ changeStyle(){
        this.setState({
         GoodsList:(await fetchData('/api/goodstypeList')).data.wareCategory[0].categoryList
    })
-   console.log(this.state.GoodsList)
+  //  console.log(this.state.GoodsList)
   
 }
 }
