@@ -1,5 +1,5 @@
 import React, { Component,Fragment } from 'react'
-       
+import { withRouter } from 'react-router-dom'   
 import { Carousel,Grid } from 'antd-mobile'
 
 import AdvList from './advlist'
@@ -13,7 +13,8 @@ class SuperMarket extends Component {
         this.state = {
             imgHeight: 150,
             swiperlist:[],
-            gridlist:[]
+            gridlist:[],
+            goodId:""
         }
     }
     render() {
@@ -43,12 +44,19 @@ class SuperMarket extends Component {
                         </a>
                     ))}
                 </Carousel>
-                <Grid 
-                    data={this.state.gridlist} 
-                    activeStyle={false} 
-                    hasLine={false}
-                    columnNum={5}
-                />
+                <div className="typelist">
+                    <Grid 
+                        data={this.state.gridlist} 
+                        activeStyle={false} 
+                        hasLine={false}
+                        columnNum={5}
+                        onClick={(el,index) => {
+                            // console.log(el)
+                            this.props.history.push("/typelist",{text:el.text,url:this.props.match.url})
+                            // console.log(this.props)
+                        }}
+                    />
+                </div>
                 <AdvList></AdvList>
                 <ActiveFloor></ActiveFloor>
             </Fragment>
@@ -65,4 +73,4 @@ class SuperMarket extends Component {
     }
 }
                                 
-export default SuperMarket;
+export default withRouter(SuperMarket);
