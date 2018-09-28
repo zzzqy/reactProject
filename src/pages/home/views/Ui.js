@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
+// import { Route,Switch,withRouter} from "react-router-dom"
 
-import { Route,withRouter } from 'react-router-dom'
+import { withRouter } from 'react-router-dom'
 
 import {Delivery} from '../../delivery'
 import {Cart} from '../../cart'
 import { Mine } from '../../mine'
 import { Vip } from '../../vip'
-import  Typelist  from '../../typelist'
 
 import { TabBar } from 'antd-mobile'; 
 
@@ -59,8 +59,13 @@ class HomeUi extends Component {
                 }}
                 data-seed="delivery"
             >
-                <Route path="/"  exact component={Delivery} />
-               
+                {/* <Switch>
+                    <Route path="/" exact component={Delivery}/>
+                    <Route path="/List" component={List}/>                 
+                </Switch>  */}
+        
+                <Delivery></Delivery>
+                {/* {this.renderContent('Life')} */}
             </TabBar.Item>
             <TabBar.Item
                 title="分类"

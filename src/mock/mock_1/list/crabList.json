@@ -1,0 +1,230 @@
+{
+    "data": {
+        "moduleBiz": -1,
+        "wareRcmds": {
+            "bgColor": "#f0f0f0",
+            "customPriceCfg": -1,
+            "hideWare": 1,
+            "iconId": -1,
+            "moduleBiz": -1,
+            "normal": [
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/1373/1"
+                    ],
+                    "customPrice": 19800,
+                    "iconId": -1,
+                    "offPrice": 19800,
+                    "originalPrice": 19800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100588626,
+                    "stock": 999,
+                    "videoMark": 1,
+                    "wareId": 10567704,
+                    "wareImgUri": "20180803/c0f01406-c153-4aa9-9c85-33b28c7f2aa9",
+                    "wareImgUrl": "//img.dmallcdn.com//20180803/c0f01406-c153-4aa9-9c85-33b28c7f2aa9",
+                    "wareName": "阳澄湖大闸蟹礼券 A款668型",
+                    "warePrice": 198
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/1373/1"
+                    ],
+                    "customPrice": 30800,
+                    "iconId": -1,
+                    "offPrice": 30800,
+                    "originalPrice": 30800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100588627,
+                    "stock": 998,
+                    "videoMark": 1,
+                    "wareId": 10567705,
+                    "wareImgUri": "20180725/198274ea-6be2-4e49-b42c-1d7e266f26c6",
+                    "wareImgUrl": "//img.dmallcdn.com//20180725/198274ea-6be2-4e49-b42c-1d7e266f26c6",
+                    "wareName": "阳澄湖大闸蟹礼券 B款698型",
+                    "warePrice": 308
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/1373/1"
+                    ],
+                    "customPrice": 29800,
+                    "iconId": -1,
+                    "offPrice": 29800,
+                    "originalPrice": 29800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100588628,
+                    "stock": 999,
+                    "videoMark": 1,
+                    "wareId": 10567706,
+                    "wareImgUri": "20180803/ad071bed-fa46-483b-95dd-68608906ac96",
+                    "wareImgUrl": "//img.dmallcdn.com//20180803/ad071bed-fa46-483b-95dd-68608906ac96",
+                    "wareName": "阳澄湖大闸蟹礼券 A款968型",
+                    "warePrice": 298
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/1373/1"
+                    ],
+                    "customPrice": 37800,
+                    "iconId": -1,
+                    "offPrice": 37800,
+                    "originalPrice": 37800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100588629,
+                    "stock": 997,
+                    "videoMark": 1,
+                    "wareId": 10567707,
+                    "wareImgUri": "20180803/8f48e0fd-5451-4b7e-9322-081457330851",
+                    "wareImgUrl": "//img.dmallcdn.com//20180803/8f48e0fd-5451-4b7e-9322-081457330851",
+                    "wareName": "阳澄湖大闸蟹礼券 B款998型 ",
+                    "warePrice": 378
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/1373/1"
+                    ],
+                    "customPrice": 45800,
+                    "iconId": -1,
+                    "offPrice": 45800,
+                    "originalPrice": 45800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100588630,
+                    "stock": 999,
+                    "videoMark": 1,
+                    "wareId": 10567708,
+                    "wareImgUri": "20180803/bffca84b-a49e-4ad8-b1a0-f42f4b7b5d87",
+                    "wareImgUrl": "//img.dmallcdn.com//20180803/bffca84b-a49e-4ad8-b1a0-f42f4b7b5d87",
+                    "wareName": "阳澄湖大闸蟹礼券 A款1088型",
+                    "warePrice": 458
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/1373/1"
+                    ],
+                    "customPrice": 55800,
+                    "iconId": -1,
+                    "offPrice": 55800,
+                    "originalPrice": 55800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100588631,
+                    "stock": 999,
+                    "videoMark": 1,
+                    "wareId": 10567709,
+                    "wareImgUri": "20180803/2797b975-705c-45f9-b96c-26885afec4d1",
+                    "wareImgUrl": "//img.dmallcdn.com//20180803/2797b975-705c-45f9-b96c-26885afec4d1",
+                    "wareName": "阳澄湖大闸蟹礼券 A款1968型",
+                    "warePrice": 558
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/1373/1"
+                    ],
+                    "customPrice": 79800,
+                    "iconId": -1,
+                    "offPrice": 79800,
+                    "originalPrice": 79800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100588632,
+                    "stock": 999,
+                    "videoMark": 1,
+                    "wareId": 10567710,
+                    "wareImgUri": "20180803/68843a49-db03-46c0-89bd-fdb67c419106",
+                    "wareImgUrl": "//img.dmallcdn.com//20180803/68843a49-db03-46c0-89bd-fdb67c419106",
+                    "wareName": "阳澄湖大闸蟹礼券 A款3688型",
+                    "warePrice": 798
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/1373/1"
+                    ],
+                    "customPrice": 69800,
+                    "iconId": -1,
+                    "offPrice": 69800,
+                    "originalPrice": 69800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100588633,
+                    "stock": 999,
+                    "videoMark": 1,
+                    "wareId": 10567711,
+                    "wareImgUri": "20180803/068d5ad8-e826-47c9-9819-26c99147bc91",
+                    "wareImgUrl": "//img.dmallcdn.com//20180803/068d5ad8-e826-47c9-9819-26c99147bc91",
+                    "wareName": "阳澄湖大闸蟹礼券 A款2688型",
+                    "warePrice": 698
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/1373/1"
+                    ],
+                    "customPrice": 108800,
+                    "iconId": -1,
+                    "offPrice": 108800,
+                    "originalPrice": 108800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100588634,
+                    "stock": 999,
+                    "videoMark": 1,
+                    "wareId": 10567712,
+                    "wareImgUri": "20180803/1c728f3a-d116-4ab0-a4cd-78355d575758",
+                    "wareImgUrl": "//img.dmallcdn.com//20180803/1c728f3a-d116-4ab0-a4cd-78355d575758",
+                    "wareName": "阳澄湖大闸蟹礼券 A款4688型 ",
+                    "warePrice": 1088
+                }
+            ],
+            "promotionTag": "",
+            "showOffPrice": 1,
+            "skuStockRule": "1",
+            "tradeConfigId": ""
+        }
+    },
+    "instanceId": 1462180,
+    "moduleDesc": "商品推荐",
+    "moduleName": "ware-rcmd",
+    "storeInfos": "1-10437-1",
+    "tplName": "ware-rcmd-template1"
+}

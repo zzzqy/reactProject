@@ -24,6 +24,7 @@ class SuperMarket extends Component {
                     autoplay={true}
                     infinite
                     dotActiveStyle={{background:"orange"}}
+                    // onClick={()=>{console.log(1111)}}
                 >
                     {this.state.swiperlist.map(val => (
                         <a

@@ -1,0 +1,316 @@
+{
+    "data": {
+        "moduleBiz": -1,
+        "wareRcmds": {
+            "bgColor": "#f0f0f0",
+            "customPriceCfg": -1,
+            "hideWare": 1,
+            "iconId": -1,
+            "moduleBiz": -1,
+            "normal": [
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 20800,
+                    "iconId": -1,
+                    "offPrice": 28900,
+                    "originalPrice": 20800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100574,
+                    "stock": 11,
+                    "videoMark": 0,
+                    "wareId": 100574,
+                    "wareImgUri": "20180906/fa8d715a-dd32-488d-a3ff-0aa5f80095ce",
+                    "wareImgUrl": "//img.dmallcdn.com//20180906/fa8d715a-dd32-488d-a3ff-0aa5f80095ce",
+                    "wareName": "果园老农富贵团圆标配礼盒 2.485kg ",
+                    "warePrice": 208
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 14800,
+                    "iconId": -1,
+                    "offPrice": 19800,
+                    "originalPrice": 14800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100440,
+                    "stock": 13,
+                    "videoMark": 0,
+                    "wareId": 100440,
+                    "wareImgUri": "20180906/fbf8d958-eb70-4735-ade0-bf11c2095752",
+                    "wareImgUrl": "//img.dmallcdn.com//20180906/fbf8d958-eb70-4735-ade0-bf11c2095752",
+                    "wareName": "果园老农锦绣礼盒 2.228kg",
+                    "warePrice": 148
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 9800,
+                    "iconId": -1,
+                    "offPrice": 14800,
+                    "originalPrice": 9800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100216006,
+                    "stock": 1,
+                    "videoMark": 0,
+                    "wareId": 10216310,
+                    "wareImgUri": "20180906/554655e4-b03a-4acb-a385-473409d7abbb",
+                    "wareImgUrl": "//img.dmallcdn.com//20180906/554655e4-b03a-4acb-a385-473409d7abbb",
+                    "wareName": "果园老农祥瑞礼盒 1.72kg",
+                    "warePrice": 98
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 9900,
+                    "iconId": -1,
+                    "offPrice": 13900,
+                    "originalPrice": 9900,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100302355,
+                    "stock": 39,
+                    "videoMark": 0,
+                    "wareId": 10281848,
+                    "wareImgUri": "20161230/37b97cd0-edb9-4036-986e-7abc106fa5f4",
+                    "wareImgUrl": "//img.dmallcdn.com//20161230/37b97cd0-edb9-4036-986e-7abc106fa5f4",
+                    "wareName": "尚珍每日坚果 600g",
+                    "warePrice": 99
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 17900,
+                    "iconId": -1,
+                    "offPrice": 17900,
+                    "originalPrice": 17900,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100355662,
+                    "stock": 13,
+                    "videoMark": 0,
+                    "wareId": 10334987,
+                    "wareImgUri": "20180110/3b130a94-4909-4b36-88f0-2513d136d39c",
+                    "wareImgUrl": "//img.dmallcdn.com//20180110/3b130a94-4909-4b36-88f0-2513d136d39c",
+                    "wareName": "加州原野每日坚果 700g",
+                    "warePrice": 179
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 13500,
+                    "iconId": -1,
+                    "offPrice": 17900,
+                    "originalPrice": 13500,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100381786,
+                    "stock": 7,
+                    "videoMark": 0,
+                    "wareId": 10360902,
+                    "wareImgUri": "20180822/6643e865-be33-4416-aa2c-fb73d04e6852",
+                    "wareImgUrl": "//img.dmallcdn.com//20180822/6643e865-be33-4416-aa2c-fb73d04e6852",
+                    "wareName": "加州原野第二代每日坚果 780g",
+                    "warePrice": 135
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 13900,
+                    "iconId": -1,
+                    "offPrice": 16800,
+                    "originalPrice": 13900,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100303645,
+                    "stock": 5,
+                    "videoMark": 0,
+                    "wareId": 10283138,
+                    "wareImgUri": "20161016/69413dd0-8d25-49eb-81ac-52e6a23c148d",
+                    "wareImgUrl": "//img.dmallcdn.com//20161016/69413dd0-8d25-49eb-81ac-52e6a23c148d",
+                    "wareName": "沃隆每日坚果 25g*30",
+                    "warePrice": 139
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 9800,
+                    "iconId": -1,
+                    "offPrice": 11800,
+                    "originalPrice": 9800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100589366,
+                    "stock": 29,
+                    "videoMark": 0,
+                    "wareId": 10568444,
+                    "wareImgUri": "20180920/3a8213ed-129e-47c7-827a-bea120f7f014",
+                    "wareImgUrl": "//img.dmallcdn.com//20180920/3a8213ed-129e-47c7-827a-bea120f7f014",
+                    "wareName": "良食记每日坚果 700g",
+                    "warePrice": 98
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 9900,
+                    "iconId": -1,
+                    "offPrice": 16800,
+                    "originalPrice": 9900,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100208959,
+                    "stock": 56,
+                    "videoMark": 0,
+                    "wareId": 10209180,
+                    "wareImgUri": "20180131/4f85b816-a9fb-4f7f-ba04-959c99117a46",
+                    "wareImgUrl": "//img.dmallcdn.com//20180131/4f85b816-a9fb-4f7f-ba04-959c99117a46",
+                    "wareName": "安达露西纯正橄榄油 750ml*2",
+                    "warePrice": 99
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 19800,
+                    "iconId": -1,
+                    "offPrice": 24150,
+                    "originalPrice": 19800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116543,
+                    "stock": 12,
+                    "videoMark": 0,
+                    "wareId": 116543,
+                    "wareImgUri": "20160807/457553c1-c33a-4bee-822d-a17876de20f8",
+                    "wareImgUrl": "//img.dmallcdn.com//20160807/457553c1-c33a-4bee-822d-a17876de20f8",
+                    "wareName": "贝蒂斯橄榄油礼盒 500ml*2",
+                    "warePrice": 198
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 23800,
+                    "iconId": -1,
+                    "offPrice": 25800,
+                    "originalPrice": 23800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 118263,
+                    "stock": 16,
+                    "videoMark": 0,
+                    "wareId": 118263,
+                    "wareImgUri": "20180616/ffab1ab2-e887-48f6-aa07-024544113195",
+                    "wareImgUrl": "//img.dmallcdn.com//20180616/ffab1ab2-e887-48f6-aa07-024544113195",
+                    "wareName": "欧丽薇兰特级初榨橄榄油 750ml*2",
+                    "warePrice": 258
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 23800,
+                    "iconId": -1,
+                    "offPrice": 25800,
+                    "originalPrice": 23800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 117584,
+                    "stock": 4,
+                    "videoMark": 0,
+                    "wareId": 117584,
+                    "wareImgUri": "20161112/169a3cb9-efad-4b01-9228-3d29feb51b65",
+                    "wareImgUrl": "//img.dmallcdn.com//20161112/169a3cb9-efad-4b01-9228-3d29feb51b65",
+                    "wareName": "脑白金礼盒两盒装 0.25g*20+250ml*2",
+                    "warePrice": 238
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 49800,
+                    "iconId": -1,
+                    "offPrice": 59000,
+                    "originalPrice": 49800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100589392,
+                    "stock": 4,
+                    "videoMark": 0,
+                    "wareId": 10568470,
+                    "wareImgUri": "20180911/23ba4ddb-e584-4b4c-aa2c-77862f49c5e3",
+                    "wareImgUrl": "//img.dmallcdn.com//20180911/23ba4ddb-e584-4b4c-aa2c-77862f49c5e3",
+                    "wareName": "众福德破壁灵芝孢子粉 60g",
+                    "warePrice": 498
+                },
+                {
+                    "businessType": 2,
+                    "skuId": 112974,
+                    "stock": 41,
+                    "videoMark": 0,
+                    "wareId": 112974,
+                    "wareImgUri": "20170103/b9ea8e11-5e61-4658-973b-9a1cc6e54b68",
+                    "wareImgUrl": "//img.dmallcdn.com//20170103/b9ea8e11-5e61-4658-973b-9a1cc6e54b68",
+                    "wareName": "好丽友巧克力派20枚 680g",
+                    "warePrice": 24.5
+                },
+                {
+                    "businessType": 2,
+                    "skuId": 100494204,
+                    "stock": 8,
+                    "videoMark": 0,
+                    "wareId": 10473279,
+                    "wareImgUri": "20180911/9608a235-43eb-4642-8d04-8e7d6ecb167c",
+                    "wareImgUrl": "//img.dmallcdn.com//20180911/9608a235-43eb-4642-8d04-8e7d6ecb167c",
+                    "wareName": "江中猴姑米稀酥性饼干 720g",
+                    "warePrice": 69
+                },
+                {
+                    "businessType": 2,
+                    "skuId": 100734,
+                    "stock": 14,
+                    "videoMark": 0,
+                    "wareId": 100734,
+                    "wareImgUri": "20180823/9c21f72a-f004-4598-a109-d76e26a406aa",
+                    "wareImgUrl": "//img.dmallcdn.com//20180823/9c21f72a-f004-4598-a109-d76e26a406aa",
+                    "wareName": "费列罗榛果威化巧克力礼盒 400g",
+                    "warePrice": 119
+                }
+            ],
+            "promotionTag": "",
+            "showOffPrice": 1,
+            "skuStockRule": "1",
+            "tradeConfigId": ""
+        }
+    },
+    "instanceId": 1462184,
+    "moduleDesc": "商品推荐",
+    "moduleName": "ware-rcmd",
+    "storeInfos": "1-10437-1",
+    "tplName": "ware-rcmd-template1"
+}

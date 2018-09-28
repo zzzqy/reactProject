@@ -1,0 +1,83 @@
+{
+    "data": {
+        "moduleBiz": -1,
+        "wareRcmds": {
+            "bgColor": "#f0f0f0",
+            "customPriceCfg": -1,
+            "hideWare": 1,
+            "iconId": -1,
+            "moduleBiz": -1,
+            "normal": [
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 6400,
+                    "iconId": -1,
+                    "offPrice": 12800,
+                    "originalPrice": 12800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100590032,
+                    "stock": 53,
+                    "videoMark": 0,
+                    "wareId": 10569110,
+                    "wareImgUri": "20180907/1e25b053-7a86-4af6-9611-b3a5c6343a6a",
+                    "wareImgUrl": "//img.dmallcdn.com//20180907/1e25b053-7a86-4af6-9611-b3a5c6343a6a",
+                    "wareName": "琪华金装至尊蛋黄白莲蓉月饼礼盒铁盒 600g",
+                    "warePrice": 128
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 11760,
+                    "iconId": -1,
+                    "offPrice": 16800,
+                    "originalPrice": 16800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100590018,
+                    "stock": 338,
+                    "videoMark": 0,
+                    "wareId": 10569096,
+                    "wareImgUri": "20180828/1c55988f-025f-410a-8552-51ce666e815f",
+                    "wareImgUrl": "//img.dmallcdn.com//20180828/1c55988f-025f-410a-8552-51ce666e815f",
+                    "wareName": "日威美满团圆月饼礼盒 670g",
+                    "warePrice": 168
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 6860,
+                    "iconId": -1,
+                    "offPrice": 9800,
+                    "originalPrice": 9800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100590016,
+                    "stock": 377,
+                    "videoMark": 0,
+                    "wareId": 10569094,
+                    "wareImgUri": "20180907/753027b1-fa4e-4bd2-9586-d0786ecdd6cc",
+                    "wareImgUrl": "//img.dmallcdn.com//20180907/753027b1-fa4e-4bd2-9586-d0786ecdd6cc",
+                    "wareName": "日威金装蛋黄白莲蓉月饼铁盒装 400g",
+                    "warePrice": 98
+                }
+            ],
+            "promotionTag": "",
+            "showOffPrice": 1,
+            "skuStockRule": "1",
+            "tradeConfigId": ""
+        }
+    },
+    "instanceId": 1462178,
+    "moduleDesc": "商品推荐",
+    "moduleName": "ware-rcmd",
+    "storeInfos": "1-10437-1",
+    "tplName": "ware-rcmd-template1"
+}

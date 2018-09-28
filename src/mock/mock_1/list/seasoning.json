@@ -1,0 +1,542 @@
+{
+    "data": {
+        "moduleBiz": -1,
+        "wareRcmds": {
+            "bgColor": "#f0f0f0",
+            "customPriceCfg": -1,
+            "hideWare": 1,
+            "iconId": -1,
+            "moduleBiz": -1,
+            "normal": [
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 8690,
+                    "iconId": -1,
+                    "offPrice": 12900,
+                    "originalPrice": 8690,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100310581,
+                    "stock": 49,
+                    "videoMark": 0,
+                    "wareId": 10290074,
+                    "wareImgUri": "20170113/d27689bc-799e-4f7b-9606-cc3653ee2928",
+                    "wareImgUrl": "//img.dmallcdn.com//20170113/d27689bc-799e-4f7b-9606-cc3653ee2928",
+                    "wareName": "金鼎压榨一级浓香花生油 5.436L",
+                    "warePrice": 86.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 8990,
+                    "iconId": -1,
+                    "offPrice": 11900,
+                    "originalPrice": 8990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100219689,
+                    "stock": 204,
+                    "videoMark": 0,
+                    "wareId": 10220053,
+                    "wareImgUri": "20170220/50d7083c-79cf-4d33-9492-81225e4882bb",
+                    "wareImgUrl": "//img.dmallcdn.com//20170220/50d7083c-79cf-4d33-9492-81225e4882bb",
+                    "wareName": "福临门压榨一级花生油 5.258L",
+                    "warePrice": 89.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 16680,
+                    "iconId": -1,
+                    "offPrice": 16990,
+                    "originalPrice": 16680,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100350038,
+                    "stock": 75,
+                    "videoMark": 0,
+                    "wareId": 10329363,
+                    "wareImgUri": "20180109/49358ff0-a859-42ad-9f75-c8d52b31e8d9",
+                    "wareImgUrl": "//img.dmallcdn.com//20180109/49358ff0-a859-42ad-9f75-c8d52b31e8d9",
+                    "wareName": "鲁花压榨一级花生油 6.08L",
+                    "warePrice": 166.8
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/236/2"
+                    ],
+                    "customPrice": 7980,
+                    "iconId": -1,
+                    "offPrice": 9990,
+                    "originalPrice": 7980,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100246761,
+                    "stock": 41,
+                    "videoMark": 0,
+                    "wareId": 10247463,
+                    "wareImgUri": "20180906/7d653d3a-0c35-465e-bb16-d549500ec166",
+                    "wareImgUrl": "//img.dmallcdn.com//20180906/7d653d3a-0c35-465e-bb16-d549500ec166",
+                    "wareName": "良食记压榨一级花生油 5L",
+                    "warePrice": 79.8
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 6950,
+                    "iconId": -1,
+                    "offPrice": 7290,
+                    "originalPrice": 6950,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116374,
+                    "stock": 49,
+                    "videoMark": 0,
+                    "wareId": 116374,
+                    "wareImgUri": "20180616/6d8027bb-c886-4cb4-b1d2-5d940a52fdcf",
+                    "wareImgUrl": "//img.dmallcdn.com//20180616/6d8027bb-c886-4cb4-b1d2-5d940a52fdcf",
+                    "wareName": "多力葵花籽油 5L",
+                    "warePrice": 69.5
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 7990,
+                    "iconId": -1,
+                    "offPrice": 9990,
+                    "originalPrice": 7990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100377532,
+                    "stock": 16,
+                    "videoMark": 0,
+                    "wareId": 10356859,
+                    "wareImgUri": "20180329/98fec514-6941-463e-9d0e-dd06b1aaa74e",
+                    "wareImgUrl": "//img.dmallcdn.com//20180329/98fec514-6941-463e-9d0e-dd06b1aaa74e",
+                    "wareName": "西王玉米油 6.18L",
+                    "warePrice": 79.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 9900,
+                    "iconId": -1,
+                    "offPrice": 16800,
+                    "originalPrice": 9900,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100208959,
+                    "stock": 56,
+                    "videoMark": 0,
+                    "wareId": 10209180,
+                    "wareImgUri": "20180131/4f85b816-a9fb-4f7f-ba04-959c99117a46",
+                    "wareImgUrl": "//img.dmallcdn.com//20180131/4f85b816-a9fb-4f7f-ba04-959c99117a46",
+                    "wareName": "安达露西纯正橄榄油 750ml*2",
+                    "warePrice": 99
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 21800,
+                    "iconId": -1,
+                    "offPrice": 21800,
+                    "originalPrice": 21800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116768,
+                    "stock": 16,
+                    "videoMark": 0,
+                    "wareId": 116768,
+                    "wareImgUri": "20160901/a9d57015-d670-4d2b-88c6-dcb2328043c1",
+                    "wareImgUrl": "//img.dmallcdn.com//20160901/a9d57015-d670-4d2b-88c6-dcb2328043c1",
+                    "wareName": "欧丽薇兰特级橄榄油礼盒 750ml*2",
+                    "warePrice": 218
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 6980,
+                    "iconId": -1,
+                    "offPrice": 7990,
+                    "originalPrice": 6980,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116537,
+                    "stock": 39,
+                    "videoMark": 0,
+                    "wareId": 116537,
+                    "wareImgUri": "20180616/2f0aa095-37b8-4a16-ba5d-09fc1a3c516b",
+                    "wareImgUrl": "//img.dmallcdn.com//20180616/2f0aa095-37b8-4a16-ba5d-09fc1a3c516b",
+                    "wareName": "长寿花玉米油 5L",
+                    "warePrice": 69.8
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 19800,
+                    "iconId": -1,
+                    "offPrice": 24150,
+                    "originalPrice": 19800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116543,
+                    "stock": 12,
+                    "videoMark": 0,
+                    "wareId": 116543,
+                    "wareImgUri": "20160807/457553c1-c33a-4bee-822d-a17876de20f8",
+                    "wareImgUrl": "//img.dmallcdn.com//20160807/457553c1-c33a-4bee-822d-a17876de20f8",
+                    "wareName": "贝蒂斯橄榄油礼盒 500ml*2",
+                    "warePrice": 198
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 2199,
+                    "iconId": -1,
+                    "offPrice": 3160,
+                    "originalPrice": 3160,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116464,
+                    "stock": 54,
+                    "videoMark": 0,
+                    "wareId": 116464,
+                    "wareImgUri": "20180702/3a67363e-0c84-4068-ac15-d0bddd894147",
+                    "wareImgUrl": "//img.dmallcdn.com//20180702/3a67363e-0c84-4068-ac15-d0bddd894147",
+                    "wareName": "中裕精制小麦粉 5kg",
+                    "warePrice": 21.99
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1999,
+                    "iconId": -1,
+                    "offPrice": 3890,
+                    "originalPrice": 1999,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100590775,
+                    "stock": 212,
+                    "videoMark": 0,
+                    "wareId": 10569853,
+                    "wareImgUri": "20180911/b1c9a722-9ae6-4145-a240-4e28472654dc",
+                    "wareImgUrl": "//img.dmallcdn.com//20180911/b1c9a722-9ae6-4145-a240-4e28472654dc",
+                    "wareName": "五得利雪晶小麦粉 5kg",
+                    "warePrice": 19.99
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 2990,
+                    "iconId": -1,
+                    "offPrice": 3390,
+                    "originalPrice": 2990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116406,
+                    "stock": 2192,
+                    "videoMark": 0,
+                    "wareId": 116406,
+                    "wareImgUri": "20180611/48625d99-fe15-46c6-8c6f-4e4e9fd97e42",
+                    "wareImgUrl": "//img.dmallcdn.com//20180611/48625d99-fe15-46c6-8c6f-4e4e9fd97e42",
+                    "wareName": "金龙鱼多用途麦芯粉 5kg",
+                    "warePrice": 29.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1799,
+                    "iconId": -1,
+                    "offPrice": 2490,
+                    "originalPrice": 1799,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100347200,
+                    "stock": 25,
+                    "videoMark": 0,
+                    "wareId": 10326679,
+                    "wareImgUri": "20180726/6b180a80-14af-45fa-a32e-789061606342",
+                    "wareImgUrl": "//img.dmallcdn.com//20180726/6b180a80-14af-45fa-a32e-789061606342",
+                    "wareName": "福临门家宴小麦粉 5kg",
+                    "warePrice": 17.99
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1990,
+                    "iconId": -1,
+                    "offPrice": 3090,
+                    "originalPrice": 1990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116422,
+                    "stock": 69,
+                    "videoMark": 0,
+                    "wareId": 116422,
+                    "wareImgUri": "20170402/169197d2-d3bb-468c-b849-c5aae4db1412",
+                    "wareImgUrl": "//img.dmallcdn.com//20170402/169197d2-d3bb-468c-b849-c5aae4db1412",
+                    "wareName": "中粮福临门优质东北米 4kg",
+                    "warePrice": 19.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "cornerSign": [
+                        "//img.dmallcdn.com//cornerMarkV3/236/2"
+                    ],
+                    "customPrice": 4999,
+                    "iconId": -1,
+                    "offPrice": 9500,
+                    "originalPrice": 4999,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100304964,
+                    "stock": 3,
+                    "videoMark": 0,
+                    "wareId": 10284457,
+                    "wareImgUri": "20180920/748fb9bf-6880-42b9-aa18-c5e854065d31",
+                    "wareImgUrl": "//img.dmallcdn.com//20180920/748fb9bf-6880-42b9-aa18-c5e854065d31",
+                    "wareName": "良食记稻花香大米 5kg",
+                    "warePrice": 49.99
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 3690,
+                    "iconId": -1,
+                    "offPrice": 3690,
+                    "originalPrice": 3690,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100247524,
+                    "stock": 104,
+                    "videoMark": 0,
+                    "wareId": 10248235,
+                    "wareImgUri": "20161213/b8f62381-34bf-45be-a442-1a98acaeefe9",
+                    "wareImgUrl": "//img.dmallcdn.com//20161213/b8f62381-34bf-45be-a442-1a98acaeefe9",
+                    "wareName": "金龙鱼寒地东北大米 5kg",
+                    "warePrice": 36.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 5990,
+                    "iconId": -1,
+                    "offPrice": 9480,
+                    "originalPrice": 5990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100300611,
+                    "stock": 6,
+                    "videoMark": 0,
+                    "wareId": 10280135,
+                    "wareImgUri": "20180718/c84809e3-1051-468b-a22a-ed370ef00266",
+                    "wareImgUrl": "//img.dmallcdn.com//20180718/c84809e3-1051-468b-a22a-ed370ef00266",
+                    "wareName": "曼泰吉臻品茉莉香米 5kg 泰国",
+                    "warePrice": 59.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 549,
+                    "iconId": -1,
+                    "offPrice": 1080,
+                    "originalPrice": 549,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100208981,
+                    "stock": 69,
+                    "videoMark": 0,
+                    "wareId": 10209202,
+                    "wareImgUri": "20160119/8cf25b41-46b4-4a64-8b12-37f3a673393c",
+                    "wareImgUrl": "//img.dmallcdn.com//20160119/8cf25b41-46b4-4a64-8b12-37f3a673393c",
+                    "wareName": "香雪麦芯细圆面 1kg",
+                    "warePrice": 5.49
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 4680,
+                    "iconId": -1,
+                    "offPrice": 5590,
+                    "originalPrice": 4680,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100376854,
+                    "stock": 50,
+                    "videoMark": 0,
+                    "wareId": 10356181,
+                    "wareImgUri": "20180326/aaf4ef5b-c17c-4268-8055-6102a5b09947",
+                    "wareImgUrl": "//img.dmallcdn.com//20180326/aaf4ef5b-c17c-4268-8055-6102a5b09947",
+                    "wareName": "七星一号长粒 5kg",
+                    "warePrice": 46.8
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 4280,
+                    "iconId": -1,
+                    "offPrice": 5290,
+                    "originalPrice": 4280,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 115370,
+                    "stock": 40,
+                    "videoMark": 0,
+                    "wareId": 115370,
+                    "wareImgUri": "20180615/c722b237-e04b-4325-ac6c-e647f4c829e9",
+                    "wareImgUrl": "//img.dmallcdn.com//20180615/c722b237-e04b-4325-ac6c-e647f4c829e9",
+                    "wareName": "北大荒长粒香米 5kg",
+                    "warePrice": 42.8
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 4090,
+                    "iconId": -1,
+                    "offPrice": 4750,
+                    "originalPrice": 4090,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100304832,
+                    "stock": 17,
+                    "videoMark": 0,
+                    "wareId": 10284325,
+                    "wareImgUri": "20170113/f39425e6-a56a-4a95-860b-0d8dfdef3bbe",
+                    "wareImgUrl": "//img.dmallcdn.com//20170113/f39425e6-a56a-4a95-860b-0d8dfdef3bbe",
+                    "wareName": "中裕麦香小麦粉 5kg",
+                    "warePrice": 40.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 2280,
+                    "iconId": -1,
+                    "offPrice": 2780,
+                    "originalPrice": 2280,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116390,
+                    "stock": 16,
+                    "videoMark": 0,
+                    "wareId": 116390,
+                    "wareImgUri": "20170817/fcf3fc96-f2b8-4186-af46-ac4d311aa824",
+                    "wareImgUrl": "//img.dmallcdn.com//20170817/fcf3fc96-f2b8-4186-af46-ac4d311aa824",
+                    "wareName": "百乐麦营养强化饺子粉 2.5kg",
+                    "warePrice": 19.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1650,
+                    "iconId": -1,
+                    "offPrice": 1710,
+                    "originalPrice": 1650,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116391,
+                    "stock": 9,
+                    "videoMark": 0,
+                    "wareId": 116391,
+                    "wareImgUri": "20150603/5365588b-a3ad-4c7e-93b0-8ca5fcaaaecf",
+                    "wareImgUrl": "//img.dmallcdn.com//20150603/5365588b-a3ad-4c7e-93b0-8ca5fcaaaecf",
+                    "wareName": "百乐麦营养强化自发粉 1.5kg",
+                    "warePrice": 13.9
+                },
+                {
+                    "businessType": 2,
+                    "skuId": 100327716,
+                    "stock": 62,
+                    "videoMark": 0,
+                    "wareId": 10307195,
+                    "wareImgUri": "20170721/97d03939-d7d8-4ec5-8f2e-d29faff59572",
+                    "wareImgUrl": "//img.dmallcdn.com//20170721/97d03939-d7d8-4ec5-8f2e-d29faff59572",
+                    "wareName": "金鼎非转基因小榨浓香菜籽油 1.8L",
+                    "warePrice": 21.5
+                },
+                {
+                    "businessType": 2,
+                    "skuId": 116774,
+                    "stock": 12,
+                    "videoMark": 0,
+                    "wareId": 116774,
+                    "wareImgUri": "20160807/68df3a19-1ba7-424c-baf9-92f34c0ec7c1",
+                    "wareImgUrl": "//img.dmallcdn.com//20160807/68df3a19-1ba7-424c-baf9-92f34c0ec7c1",
+                    "wareName": "多力三益葵花油 2.5L",
+                    "warePrice": 47.9
+                },
+                {
+                    "businessType": 2,
+                    "skuId": 116372,
+                    "stock": 58,
+                    "videoMark": 0,
+                    "wareId": 116372,
+                    "wareImgUri": "20180616/eec222c3-2444-4329-b6d4-ee68deb23b9b",
+                    "wareImgUrl": "//img.dmallcdn.com//20180616/eec222c3-2444-4329-b6d4-ee68deb23b9b",
+                    "wareName": "金龙鱼玉米胚芽油 5L",
+                    "warePrice": 71.9
+                }
+            ],
+            "promotionTag": "",
+            "showOffPrice": 1,
+            "skuStockRule": "1",
+            "tradeConfigId": ""
+        }
+    },
+    "instanceId": 1462188,
+    "moduleDesc": "商品推荐",
+    "moduleName": "ware-rcmd",
+    "storeInfos": "1-10437-1",
+    "tplName": "ware-rcmd-template1"
+}

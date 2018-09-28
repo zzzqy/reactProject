@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import {withRouter} from "react-router-dom"
  
 import './marketStyles.scss'
 
@@ -21,9 +22,10 @@ class MarketList extends Component {
                     columnNum={3} 
                     itemStyle={{ height: '1.5rem'}} 
                     hasLine={false}
-                    onClick={(el,index) => {
-                        console.log(el)
-                    }}
+                    onClick={(el, index) => {
+                        this.props.history.push('/List', { id: el.id })
+                       
+                    }} 
                 />
             </div>
             
@@ -38,4 +40,4 @@ class MarketList extends Component {
     }
 }
                                 
-export default MarketList;
+export default withRouter(MarketList);
