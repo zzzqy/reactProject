@@ -1,0 +1,36 @@
+#marketGrid{
+    .am-grid{
+        margin-top: 0;
+        .am-flexbox {
+             margin-bottom: 0;
+        }
+    }
+}
+#marketGrid .am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content .am-grid-icon{
+    margin-top: 0;
+    width: 100% !important;
+}
+#marketGrid .am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content{
+    height: 100%;
+}
+.life_01{
+    width: 100%;
+    display: flex;
+    li{
+        width: 50%;       
+        .lifeImg{
+            width: 100%
+        }
+    }
+}
+.life_02{
+    width: 100%;
+    display: flex;
+    li{
+        width: 25%;       
+        .lifeImg{
+            width: 100%;
+            height: 1.5rem;
+        }
+    }
+}

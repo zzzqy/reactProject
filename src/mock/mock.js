@@ -1,11 +1,31 @@
 const swiperlist = require('./swiperlist.json')
 const gridlist = require('./gridlist.json')
 const sportlist = require('./sport.json')
+const marketlist = require('./marketlist.json')
+const lifelist = require('./lifelist.json')
+const floorlist = require('./floorlist.json')
+const floorlist_refresh = require('./floorlist_refresh.json')
+const orderList = require('./mock_1/orderList.json')
+const serverList = require('./mock_1/serverList.json')
+const iconfontList = require('./mock_1/iconfontList.json')
+const goodNews = require('./mock_2/goodnew.json')
+
+
+const goodstypeList = require('./mock_2/goodtypelist.json')
 
 module.exports = function(){
     return {
         swiperlist,
         gridlist,
-        sportlist
+        sportlist,
+        marketlist,
+        lifelist,
+        floorlist,
+        floorlist_refresh,
+        orderList,
+        serverList,
+        iconfontList,
+        goodstypeList,
+        goodNews
     }
 }

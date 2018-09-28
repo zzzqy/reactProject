@@ -1,5 +1,8 @@
 import React, { Component,Fragment } from 'react'
- 
+
+import MarketList from './marketlist'
+import LifeList from './lifelist'
+
 import { fetchData } from '../../../utils/commonUtil'
 
 class AdvList extends Component {
@@ -22,25 +25,37 @@ class AdvList extends Component {
                                 <a><img src={this.state.sportlist[1].imgUrl} alt="" className="titleImg" /></a>
                             </li>   
                         </ul>
-                        <ul>
-                            <li>
-                                <a><img src={this.state.sportlist[2].imgUrl} alt="" /></a>
+                        <ul className="advStyle">
+                            <li className="advLiStyle">
+                                <a className="advStyle1"><img src={this.state.sportlist[2].imgUrl} alt="" className="advLiImg"/></a>
                                 <span>
                                     <a><img src={this.state.sportlist[3].imgUrl} alt="" /></a>
                                     <a><img src={this.state.sportlist[4].imgUrl} alt="" /></a>
                                 </span>
                             </li>
                         </ul>
-                    </div>
-                         
+                        <ul> 
+                            <li>
+                                <a><img src={this.state.sportlist[5].imgUrl} alt=""  className="titleImg"/></a>
+                            </li> 
+                        </ul> 
+                        <MarketList></MarketList> 
+                        <ul> 
+                            <li>
+                                <a><img src={this.state.sportlist[6].imgUrl} alt=""  className="titleImg"/></a>
+                            </li> 
+                        </ul>   
+                        <LifeList></LifeList> 
+                    </div>                        
                     :null
-                }                                 
+                } 
+                                          
             </Fragment>
         );
     }
     async componentDidMount(){
         this.setState({
-            sportlist:(await fetchData("/api/sportlist")).data
+            sportlist:(await fetchData("/api/sportlist")).data,
         })  
     }
 }

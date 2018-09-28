@@ -1,0 +1,59 @@
+{
+    "ret": true,
+    "dataList": [
+        {
+            "brandId": 0,
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/66adcb68-57aa-4f51-860a-603e46681012_480x480H",
+            "resource": "https://a.dmall.com/act/TzfRxZyYIt.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 1,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/5733e59c-462b-4155-b6cb-24b6a059802f_480x480H",
+            "resource": "https://a.dmall.com/act/iNwZRaJGol.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 2,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/8eeb33ff-abab-4e8e-9c55-1c2a82282525_480x480H",
+            "resource": "https://a.dmall.com/act/TR1LozEvdn.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 3,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/c9fc2653-5a15-4515-b892-99c74bfc0447_480x480H",
+            "resource": "https://a.dmall.com/act/Jf8p7GiszP.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 4,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/d13f0466-c0dc-4c73-b98c-6fda2e17150e_480x480H",
+            "resource": "https://a.dmall.com/act/63Kic0zEHj.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 5,
+            "storeId": 10437,
+            "venderId": 1
+        },
+        {
+            "brandId": 0,
+            "dataType": 5,
+            "imageUrl": "https://img.dmallcdn.com/mIndex/201809/9b15dcc8-3c9e-46e3-a345-a2fc0ff33098_480x480H",
+            "resource": "https://a.dmall.com/act/C2magxP6K0r.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1537449683373",
+            "sort": 6,
+            "storeId": 10437,
+            "venderId": 1
+        }
+    ]
+  }

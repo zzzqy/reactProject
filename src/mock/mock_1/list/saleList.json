@@ -1,0 +1,103 @@
+{
+    "data": {
+        "moduleBiz": -1,
+        "wareRcmds": {
+            "bgColor": "#f0f0f0",
+            "customPriceCfg": -1,
+            "hideWare": 1,
+            "iconId": -1,
+            "moduleBiz": -1,
+            "normal": [
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 27800,
+                    "iconId": -1,
+                    "offPrice": 27800,
+                    "originalPrice": 27800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100594495,
+                    "stock": 12,
+                    "videoMark": 0,
+                    "wareId": 10573573,
+                    "wareImgUri": "20180907/0be46abc-e26d-498a-8564-261fe845cd85",
+                    "wareImgUrl": "//img.dmallcdn.com//20180907/0be46abc-e26d-498a-8564-261fe845cd85",
+                    "wareName": "良食记仿膳鸿运邀月月饼礼盒 800g",
+                    "warePrice": 278
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 25800,
+                    "iconId": -1,
+                    "offPrice": 25800,
+                    "originalPrice": 25800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100594496,
+                    "stock": 35,
+                    "videoMark": 0,
+                    "wareId": 10573574,
+                    "wareImgUri": "20180828/ca64f14c-29c2-4ac5-9dc9-f6b76dfc6a09",
+                    "wareImgUrl": "//img.dmallcdn.com//20180828/ca64f14c-29c2-4ac5-9dc9-f6b76dfc6a09",
+                    "wareName": "良食记全聚德青瓷捧月月饼礼盒 800g",
+                    "warePrice": 258
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 6990,
+                    "iconId": -1,
+                    "offPrice": 15800,
+                    "originalPrice": 6990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100350931,
+                    "stock": 32,
+                    "videoMark": 0,
+                    "wareId": 10330256,
+                    "wareImgUri": "20170829/6e0f2c21-63d9-42a3-9058-5a13f12f5161",
+                    "wareImgUrl": "//img.dmallcdn.com//20170829/6e0f2c21-63d9-42a3-9058-5a13f12f5161",
+                    "wareName": "西凤御藏酒黄西凤52度 500ml",
+                    "warePrice": 69.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1000,
+                    "iconId": -1,
+                    "offPrice": 2100,
+                    "originalPrice": 1000,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100362108,
+                    "stock": 100,
+                    "videoMark": 0,
+                    "wareId": 10341435,
+                    "wareImgUri": "20180705/db635ef7-9a55-4c57-986d-7621d54feaea",
+                    "wareImgUrl": "//img.dmallcdn.com//20180705/db635ef7-9a55-4c57-986d-7621d54feaea",
+                    "wareName": "凯撒王黄啤酒 330ml*6",
+                    "warePrice": 21
+                }
+            ],
+            "promotionTag": "",
+            "showOffPrice": 1,
+            "skuStockRule": "1",
+            "tradeConfigId": ""
+        }
+    },
+    "instanceId": 1462176,
+    "moduleDesc": "商品推荐",
+    "moduleName": "ware-rcmd",
+    "storeInfos": "1-10437-1",
+    "tplName": "ware-rcmd-template11"
+}

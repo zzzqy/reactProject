@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 
 import {Delivery} from '../../delivery'
 import { Classify }from "../../classify"
+import {Vip} from "../../vip"
+import {Mine } from "../../mine"
 
 import { TabBar } from 'antd-mobile'; 
 
@@ -20,7 +22,7 @@ class HomeUi extends Component {
     constructor(props){
         super(props);
         this.state = {
-            selectedTab: 'delivery',
+            selectedTab: 'vip',
             hidden: false
         }
     }
@@ -101,12 +103,13 @@ class HomeUi extends Component {
                 }}
                 data-seed="vip"
             >
-                <div>vip</div>
+                <Vip></Vip>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
             <TabBar.Item
                 title="购物车"
                 key="cart"
+                badge={1}
                 icon={<div style={{
                     width: '22px',
                     height: '22px',
@@ -149,7 +152,7 @@ class HomeUi extends Component {
                 }}
                 data-seed="mine"
             >
-                <div>mine</div>
+                <Mine></Mine>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
         </TabBar>

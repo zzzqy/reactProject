@@ -1,5 +1,7 @@
 import React, {Component,Fragment} from 'react'
-import { Tabs, WhiteSpace } from 'antd-mobile';
+import { Tabs } from 'antd-mobile';
+import GoodsList from "./goodsList"
+//import GoodList from "./goodlist2"
 import './style.scss'
 
 class Classify extends React.Component{
@@ -10,38 +12,25 @@ class Classify extends React.Component{
             { title: '多点超市' },
             { title: '全球精选' },
           ],
-        ariaSelected:true
+        ariaSelected:false
       }
    }
   
    render(){
       return( 
          <Fragment>
-           <WhiteSpace />
-    <Tabs tabs={this.state.tabs}
-        tabBarUnderlineStyle={{border:"none",borderBottom:"2px solid orange",width:"18%",
-        left:this.state.ariaSelected?"2%":"24%"
+    <div style={{ height: "100%"}}>
+      <Tabs tabs={this.state.tabs}
+        tabBarUnderlineStyle={{border:"none",borderBottom:"2px solid orange"
       }}
-      onTabClick={
-        ()=>{
-          this.setState({
-            ariaSelected:!this.state.ariaSelected
-          }) 
-        }
-      }
-     
-     initialPage={1} 
-     animated={false}
-      useOnPan={false}>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#fff' }}>
-        Content of first tab
-      </div>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center',  backgroundColor: '#fff' }}>
-        Content of second tab
-      </div>
-      
-    </Tabs>
-    <WhiteSpace />
+        initalPage={'t2'}
+        swipeable={false}
+      >
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#fff' }}>
+         <GoodsList></GoodsList>
+        </div>
+      </Tabs>
+    </div>
         </Fragment>
       )
    }

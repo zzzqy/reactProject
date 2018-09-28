@@ -1,0 +1,157 @@
+.top{
+    width: 100%;
+    height: 1.4rem;
+    background: url("../../../assets/images/mine-top-banner-bg.png") center     bottom no-repeat;
+    position: relative;
+    .go{
+        position: absolute;
+        right: 0;
+        top: 0.25rem;
+        text-align: center;
+        padding: 0.03rem 0.15rem 0.03rem 0.20rem;
+        background-color: rgba(255,255,255,.3);
+        border-radius: 0.15rem 0 0 0.15rem;
+        z-index: 3;
+        span{
+            line-height: 1;
+            color: #fff;
+            font-size: 0.12rem;
+            display: inline-block;
+        }
+    }
+    .Info{
+        position: absolute;
+        top: 50%;
+        left: 0.15rem;
+        width: 100%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+        color: #fff;
+        min-height: 0.56rem;
+        z-index: 1;
+        display: flex;
+        justify-content: space-around;
+        .left{
+            width: 0.58rem;
+            height: 0.58rem;
+            border: 0.02rem solid rgba(255,255,255,.4);
+            border-radius: 100%;
+            margin-right: 0.2rem;
+            padding:0.1rem 0 0 0.05rem; 
+            // position: absolute;
+            // left: 0;
+            // top: 0;
+        }
+        .middle{
+            flex: 1;
+            .hello{
+                font-size: 0.16rem;
+                max-width: 59%;
+                display: block;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                padding-right: 0.1rem;
+                line-height: 1.6;
+            }
+            .vipInfo{
+                span{
+                    display: inline-block;
+                    // background-color: ;
+                    border-radius: 0.15rem;
+                    height: 0.26rem;
+                    background:rgba(0,0,0,.6);
+                    // background:rgba(0,0,0,.6) url("../../../assets/images/sprt.png") -2.06rem -7.08rem no-repeat;
+                    // background-size: 0.3rem auto; 
+                    // background-repeat: no-repeat;
+                    // background-position: -0.03rem center;
+                    font-size: 0.12rem;
+                    line-height: 0.24rem;
+                    color: #fff;
+                    padding: 0.01rem 0.10rem 0.01rem 0.26rem;
+                }
+            }
+        }
+        .right{
+            width: 1.03rem;
+            height: 0.25rem;
+            margin-top: 0.24rem;
+            img{
+                display: inline-block;
+                width: 100%;
+                height: 0.25rem;
+            }
+        }
+
+
+    }
+}
+
+.order{
+    width: 100%;
+    height: 1.2rem;
+    background: #fff;
+    overflow: hidden;
+    margin-bottom: 0.1rem;
+    .allOrder{
+        display: flex;
+        padding: 0 0.2rem;
+        justify-content: space-between;
+        color: #404040; 
+        border-bottom: 0.01rem solid #ccc;     
+        
+        P{
+            font-size: 0.16rem;
+            line-height: 0.34rem;
+        }
+    }
+}
+
+.assets{
+    width: 100%;
+    height: 1.16rem;
+    background: #fff;
+    margin-bottom: 0.1rem;
+    
+    ul{
+        display: flex;
+        justify-content: space-around;
+        li{
+            width: 25%;
+            text-align: center;
+            padding-top: 0.1rem;
+            span{
+                display: block;
+                line-height: 0.3rem;
+                font-size: 0.16rem;
+            }
+            .num{
+                font-weight: bolder;
+            }
+        }
+    }
+}
+
+.title{
+    padding:0 0.2rem ;
+    font-size: 0.16rem;
+    line-height: 0.34rem;
+    color: #404040;
+    background: #fff; 
+    border-bottom: 0.01rem solid #ccc; 
+}
+.am-grid.am-grid-square {
+    margin-top: 0;
+    padding-bottom: 0;
+    background: #fff;
+    border-bottom: 1px solid #efefef;
+}
+.am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content {
+    height: 60%;
+    .am-grid-icon {
+    width: 30% !important;
+    }
+}
+.am-grid .am-flexbox .am-flexbox-item .am-grid-item-content .am-grid-item-inner-content.column-num-3 .am-grid-text{
+    font-size: 0.12rem;
+}
