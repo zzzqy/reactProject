@@ -11,6 +11,7 @@ const floorlist_refresh = require('./floorlist_refresh.json')
 const orderList = require('./mock_1/orderList.json')
 const serverList = require('./mock_1/serverList.json')
 const iconfontList = require('./mock_1/iconfontList.json')
+<<<<<<< HEAD
 const middlewares = jsonServer.defaults()
 
 <<<<<<< HEAD
@@ -30,6 +31,12 @@ const otherList = require('./mock_1/list/otherList.json')
 const seasoning = require('./mock_1/list/seasoning.json')
 const snacks = require('./mock_1/list/snacks.json')
 const vegetables = require('./mock_1/list/vegetables.json')
+=======
+const goodNews = require('./mock_2/goodnew.json')
+
+
+const goodstypeList = require('./mock_2/goodtypelist.json')
+>>>>>>> zheng
 
 
 >>>>>>> ljh
@@ -45,6 +52,7 @@ module.exports = function(){
 
         orderList,
         serverList,
+<<<<<<< HEAD
 <<<<<<< HEAD
         iconfontList    }
 }
@@ -64,6 +72,11 @@ server.listen(9000, () => {
         snacks,
         vegetables,
 
+=======
+        iconfontList,
+        goodstypeList,
+        goodNews
+>>>>>>> zheng
     }
 }
 >>>>>>> ljh

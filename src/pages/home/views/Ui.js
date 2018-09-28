@@ -4,9 +4,10 @@ import React, { Component } from 'react'
 import { withRouter } from 'react-router-dom'
 
 import {Delivery} from '../../delivery'
-import {Cart} from '../../cart'
-import { Mine } from '../../mine'
-import { Vip } from '../../vip'
+import { Classify }from "../../classify"
+import {Vip} from "../../vip"
+import {Mine } from "../../mine"
+import { Cart } from '../../cart'
 
 import { TabBar } from 'antd-mobile'; 
 
@@ -88,7 +89,7 @@ class HomeUi extends Component {
                 }}
                 data-seed="classify"
             >
-                <div>lala</div>
+                <Classify/>
                 {/* {this.renderContent('Life')} */}
             </TabBar.Item>
             <TabBar.Item

@@ -1,0 +1,505 @@
+{
+    "data": {
+        "moduleBiz": -1,
+        "wareRcmds": {
+            "bgColor": "#f0f0f0",
+            "customPriceCfg": -1,
+            "hideWare": 1,
+            "iconId": -1,
+            "moduleBiz": -1,
+            "normal": [
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1990,
+                    "iconId": -1,
+                    "offPrice": 2290,
+                    "originalPrice": 2290,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 112885,
+                    "stock": 91,
+                    "videoMark": 0,
+                    "wareId": 112885,
+                    "wareImgUri": "20170331/47c6d176-08d5-42ad-88b7-07e835cbaa28",
+                    "wareImgUrl": "//img.dmallcdn.com//20170331/47c6d176-08d5-42ad-88b7-07e835cbaa28",
+                    "wareName": "好丽友薯愿薯片连包 104g*3",
+                    "warePrice": 19.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 990,
+                    "iconId": -1,
+                    "offPrice": 1190,
+                    "originalPrice": 990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100358907,
+                    "stock": 66,
+                    "videoMark": 0,
+                    "wareId": 10338233,
+                    "wareImgUri": "20180820/04d3b1d2-cf85-4487-882b-3775ca267055",
+                    "wareImgUrl": "//img.dmallcdn.com//20180820/04d3b1d2-cf85-4487-882b-3775ca267055",
+                    "wareName": "乐事美国经典原味薯片 188g",
+                    "warePrice": 11.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 990,
+                    "iconId": -1,
+                    "offPrice": 1190,
+                    "originalPrice": 990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100358909,
+                    "stock": 7,
+                    "videoMark": 0,
+                    "wareId": 10338235,
+                    "wareImgUri": "20180820/bcd07256-8102-4e78-a4ac-678edcea093b",
+                    "wareImgUrl": "//img.dmallcdn.com//20180820/bcd07256-8102-4e78-a4ac-678edcea093b",
+                    "wareName": "乐事大波浪香脆烤鸡翅味薯片 188g",
+                    "warePrice": 9.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 990,
+                    "iconId": -1,
+                    "offPrice": 1190,
+                    "originalPrice": 990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100358905,
+                    "stock": 49,
+                    "videoMark": 0,
+                    "wareId": 10338231,
+                    "wareImgUri": "20180820/8d8198eb-505e-4cf3-985b-212d5631290a",
+                    "wareImgUrl": "//img.dmallcdn.com//20180820/8d8198eb-505e-4cf3-985b-212d5631290a",
+                    "wareName": "乐事大波浪铁板鱿鱼味薯片 188g",
+                    "warePrice": 9.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1280,
+                    "iconId": -1,
+                    "offPrice": 1550,
+                    "originalPrice": 1280,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 115726,
+                    "stock": 57,
+                    "videoMark": 0,
+                    "wareId": 115726,
+                    "wareImgUri": "20180726/d3a4a659-be8f-4755-a46e-c32674d591b6",
+                    "wareImgUrl": "//img.dmallcdn.com//20180726/d3a4a659-be8f-4755-a46e-c32674d591b6",
+                    "wareName": "旺旺浪味仙优惠装 210g",
+                    "warePrice": 12.8
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 990,
+                    "iconId": -1,
+                    "offPrice": 1190,
+                    "originalPrice": 990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100358908,
+                    "stock": 64,
+                    "videoMark": 0,
+                    "wareId": 10338234,
+                    "wareImgUri": "20180820/aba25960-ad30-4c07-aafd-c9e6436f993c",
+                    "wareImgUrl": "//img.dmallcdn.com//20180820/aba25960-ad30-4c07-aafd-c9e6436f993c",
+                    "wareName": "乐事薯片 黄瓜味 188g",
+                    "warePrice": 9.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 890,
+                    "iconId": -1,
+                    "offPrice": 1190,
+                    "originalPrice": 890,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 113268,
+                    "stock": 110,
+                    "videoMark": 0,
+                    "wareId": 113268,
+                    "wareImgUri": "20180718/953fa6ff-aa39-4948-ade3-39922846bded",
+                    "wareImgUrl": "//img.dmallcdn.com//20180718/953fa6ff-aa39-4948-ade3-39922846bded",
+                    "wareName": "达利园面包 400g",
+                    "warePrice": 8.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1090,
+                    "iconId": -1,
+                    "offPrice": 1390,
+                    "originalPrice": 1090,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 173145,
+                    "stock": 222,
+                    "videoMark": 0,
+                    "wareId": 173145,
+                    "wareImgUri": "20170804/13f27fe3-0a35-40a6-ae79-79b3531b6bae",
+                    "wareImgUrl": "//img.dmallcdn.com//20170804/13f27fe3-0a35-40a6-ae79-79b3531b6bae",
+                    "wareName": "卡夫乐之薄片饼干 原味 400g",
+                    "warePrice": 10.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1290,
+                    "iconId": -1,
+                    "offPrice": 1600,
+                    "originalPrice": 1290,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 114937,
+                    "stock": 103,
+                    "videoMark": 0,
+                    "wareId": 114937,
+                    "wareImgUri": "20180718/fa5d8f93-8a44-4939-9e87-5001bf5b67f2",
+                    "wareImgUrl": "//img.dmallcdn.com//20180718/fa5d8f93-8a44-4939-9e87-5001bf5b67f2",
+                    "wareName": "嘉友饼干 特浓牛乳味 468g",
+                    "warePrice": 12.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 2450,
+                    "iconId": -1,
+                    "offPrice": 2890,
+                    "originalPrice": 2450,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 112974,
+                    "stock": 41,
+                    "videoMark": 0,
+                    "wareId": 112974,
+                    "wareImgUri": "20170103/b9ea8e11-5e61-4658-973b-9a1cc6e54b68",
+                    "wareImgUrl": "//img.dmallcdn.com//20170103/b9ea8e11-5e61-4658-973b-9a1cc6e54b68",
+                    "wareName": "好丽友巧克力派20枚 680g",
+                    "warePrice": 24.5
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 990,
+                    "iconId": -1,
+                    "offPrice": 1080,
+                    "originalPrice": 990,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100375228,
+                    "stock": 36,
+                    "videoMark": 0,
+                    "wareId": 10354555,
+                    "wareImgUri": "20180118/0da38470-107f-484d-8cf0-e95467fee1de",
+                    "wareImgUrl": "//img.dmallcdn.com//20180118/0da38470-107f-484d-8cf0-e95467fee1de",
+                    "wareName": "奥利奥巧脆卷2盒 +巧心结1盒 零食畅享装 157g",
+                    "warePrice": 9.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 8890,
+                    "iconId": -1,
+                    "offPrice": 11500,
+                    "originalPrice": 8890,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116247,
+                    "stock": 175,
+                    "videoMark": 0,
+                    "wareId": 116247,
+                    "wareImgUri": "20161228/ea9e9442-6f12-454b-86d9-6cfc04f63e83",
+                    "wareImgUrl": "//img.dmallcdn.com//20161228/ea9e9442-6f12-454b-86d9-6cfc04f63e83",
+                    "wareName": "费列罗榛果威化巧克力30粒 375g",
+                    "warePrice": 88.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 11900,
+                    "iconId": -1,
+                    "offPrice": 16000,
+                    "originalPrice": 11900,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100734,
+                    "stock": 14,
+                    "videoMark": 0,
+                    "wareId": 100734,
+                    "wareImgUri": "20180823/9c21f72a-f004-4598-a109-d76e26a406aa",
+                    "wareImgUrl": "//img.dmallcdn.com//20180823/9c21f72a-f004-4598-a109-d76e26a406aa",
+                    "wareName": "费列罗榛果威化巧克力礼盒 400g",
+                    "warePrice": 119
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 2950,
+                    "iconId": -1,
+                    "offPrice": 3590,
+                    "originalPrice": 2950,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 114999,
+                    "stock": 20,
+                    "videoMark": 0,
+                    "wareId": 114999,
+                    "wareImgUri": "20180718/a7676547-14b4-4dcd-ad28-ddcee5ef50d6",
+                    "wareImgUrl": "//img.dmallcdn.com//20180718/a7676547-14b4-4dcd-ad28-ddcee5ef50d6",
+                    "wareName": "德芙香浓黑巧克力碗装 252g",
+                    "warePrice": 29.5
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 2940,
+                    "iconId": -1,
+                    "offPrice": 3590,
+                    "originalPrice": 2940,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 115000,
+                    "stock": 85,
+                    "videoMark": 0,
+                    "wareId": 115000,
+                    "wareImgUri": "20180718/0154775d-56fc-47f1-8f21-b83f4b1673ae",
+                    "wareImgUrl": "//img.dmallcdn.com//20180718/0154775d-56fc-47f1-8f21-b83f4b1673ae",
+                    "wareName": "德芙丝滑牛奶巧克力碗装 252g",
+                    "warePrice": 29.4
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1390,
+                    "iconId": -1,
+                    "offPrice": 1650,
+                    "originalPrice": 1390,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 101261,
+                    "stock": 31,
+                    "videoMark": 0,
+                    "wareId": 101261,
+                    "wareImgUri": "20160815/bd6ee48a-1d6b-4309-9e75-01b2efb18166",
+                    "wareImgUrl": "//img.dmallcdn.com//20160815/bd6ee48a-1d6b-4309-9e75-01b2efb18166",
+                    "wareName": "好丽友热带水果粒粒出口香糖 101g 口味随机",
+                    "warePrice": 13.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 2950,
+                    "iconId": -1,
+                    "offPrice": 3550,
+                    "originalPrice": 2950,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 116257,
+                    "stock": 59,
+                    "videoMark": 0,
+                    "wareId": 116257,
+                    "wareImgUri": "20180718/3aa2313e-72fb-4654-8ca7-305e2674c95d",
+                    "wareImgUrl": "//img.dmallcdn.com//20180718/3aa2313e-72fb-4654-8ca7-305e2674c95d",
+                    "wareName": "士力架全家桶家庭装 460g",
+                    "warePrice": 29.5
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 9900,
+                    "iconId": -1,
+                    "offPrice": 13900,
+                    "originalPrice": 9900,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100302355,
+                    "stock": 39,
+                    "videoMark": 0,
+                    "wareId": 10281848,
+                    "wareImgUri": "20161230/37b97cd0-edb9-4036-986e-7abc106fa5f4",
+                    "wareImgUrl": "//img.dmallcdn.com//20161230/37b97cd0-edb9-4036-986e-7abc106fa5f4",
+                    "wareName": "尚珍每日坚果 600g",
+                    "warePrice": 99
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 14800,
+                    "iconId": -1,
+                    "offPrice": 19800,
+                    "originalPrice": 14800,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100440,
+                    "stock": 13,
+                    "videoMark": 0,
+                    "wareId": 100440,
+                    "wareImgUri": "20180906/fbf8d958-eb70-4735-ade0-bf11c2095752",
+                    "wareImgUrl": "//img.dmallcdn.com//20180906/fbf8d958-eb70-4735-ade0-bf11c2095752",
+                    "wareName": "果园老农锦绣礼盒 2.228kg",
+                    "warePrice": 148
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 960,
+                    "iconId": -1,
+                    "offPrice": 1380,
+                    "originalPrice": 960,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100249221,
+                    "stock": 20,
+                    "videoMark": 0,
+                    "wareId": 10249981,
+                    "wareImgUri": "20180726/0ef2b47f-ff9e-4248-abc0-e34792841d42",
+                    "wareImgUrl": "//img.dmallcdn.com//20180726/0ef2b47f-ff9e-4248-abc0-e34792841d42",
+                    "wareName": "溜溜原西梅 160g",
+                    "warePrice": 9.6
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 350,
+                    "iconId": -1,
+                    "offPrice": 480,
+                    "originalPrice": 350,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100249176,
+                    "stock": 305,
+                    "videoMark": 0,
+                    "wareId": 10249936,
+                    "wareImgUri": "20161102/474412fc-6cc2-4c0d-9274-c0ec350e85c9",
+                    "wareImgUrl": "//img.dmallcdn.com//20161102/474412fc-6cc2-4c0d-9274-c0ec350e85c9",
+                    "wareName": "卫龙大面筋 106g",
+                    "warePrice": 3.5
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1490,
+                    "iconId": -1,
+                    "offPrice": 2760,
+                    "originalPrice": 1490,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 100473359,
+                    "stock": 82,
+                    "videoMark": 0,
+                    "wareId": 10452442,
+                    "wareImgUri": "20180601/50fe2465-38af-4909-9444-ae91f5768cb1",
+                    "wareImgUrl": "//img.dmallcdn.com//20180601/50fe2465-38af-4909-9444-ae91f5768cb1",
+                    "wareName": "南方黑芝麻糊超惠装 400g",
+                    "warePrice": 14.9
+                },
+                {
+                    "adSettings": {
+                        "bgColor": "#ff6f00"
+                    },
+                    "businessType": 2,
+                    "customPrice": 1190,
+                    "iconId": -1,
+                    "offPrice": 1390,
+                    "originalPrice": 1190,
+                    "promotionTag": "",
+                    "skuCount": 1,
+                    "skuId": 117354,
+                    "stock": 41,
+                    "videoMark": 0,
+                    "wareId": 117354,
+                    "wareImgUri": "20180616/1d0a4d64-f482-4a65-8b72-74bb9b268324",
+                    "wareImgUrl": "//img.dmallcdn.com//20180616/1d0a4d64-f482-4a65-8b72-74bb9b268324",
+                    "wareName": "立顿黄牌红茶 2g*25",
+                    "warePrice": 11.9
+                },
+                {
+                    "businessType": 2,
+                    "skuId": 117356,
+                    "stock": 38,
+                    "videoMark": 0,
+                    "wareId": 117356,
+                    "wareImgUri": "20170628/295f4f05-fed9-4ebb-b6cb-d21acbb8c2f0",
+                    "wareImgUrl": "//img.dmallcdn.com//20170628/295f4f05-fed9-4ebb-b6cb-d21acbb8c2f0",
+                    "wareName": "立顿绿茶茶包 2g*25包",
+                    "warePrice": 11.9
+                },
+                {
+                    "businessType": 2,
+                    "skuId": 115787,
+                    "stock": 24,
+                    "videoMark": 0,
+                    "wareId": 115787,
+                    "wareImgUri": "20180718/b79d5d83-113b-40c4-98bd-b4c9e9c0406c",
+                    "wareImgUrl": "//img.dmallcdn.com//20180718/b79d5d83-113b-40c4-98bd-b4c9e9c0406c",
+                    "wareName": "伊利中老年奶粉 900g",
+                    "warePrice": 69.8
+                }
+            ],
+            "promotionTag": "",
+            "showOffPrice": 1,
+            "skuStockRule": "1",
+            "tradeConfigId": ""
+        }
+    },
+    "instanceId": 1462192,
+    "moduleDesc": "商品推荐",
+    "moduleName": "ware-rcmd",
+    "storeInfos": "1-10437-1",
+    "tplName": "ware-rcmd-template1"
+}
