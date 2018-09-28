@@ -1,0 +1,39 @@
+.typeTitle{
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    background: #fff;
+    height: .44rem;
+    line-height: .44rem
+}
+.imgSize{
+    border: none;
+    width: .3rem;
+}
+.type .am-icon-md{
+    width: .31rem;
+    height: .31rem;
+    background: black;
+    border-radius: 50%;
+    opacity: 0.7;
+    margin-left: .09rem;
+}
+.type .am-navbar-light{
+    color:#fff; 
+}
+// .type{
+//     position: relative;
+// }
+.type .num{
+    position: absolute;
+    right: .1rem;
+    top: .03rem;
+    width: .18rem;
+    height: .18rem;
+    background: #cc0000;
+    color: #fff;
+    display: block;
+    line-height: .18rem;
+    text-align: center;
+    border-radius: 50%;
+}

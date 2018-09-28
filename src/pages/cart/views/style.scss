@@ -1,0 +1,74 @@
+section{
+    background: #fff;
+    width: 100%;height: 100%;
+    padding-top: .3rem; 
+    display: flex;
+    h4{
+        font-weight: normal;
+        width: 100%;
+        color: #707070;
+        border:1px solid #efefef;
+        padding: .1rem .06rem;
+        .select{
+            float: left;
+            width: .20rem;
+            height: .20rem;
+            border:1px solid #efefef;
+            border-radius: 50%;
+            margin-right: .05rem;
+        }
+    }
+    .cartlist{
+        width: 100%;
+        li{
+            width: 100%;
+            border-bottom:1px solid #ededed;
+            padding: .15rem .06rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            .select{
+                width: .20rem;
+                height: .20rem;
+                border:1px solid #efefef;
+                border-radius: 50%;
+                margin-right: .05rem;
+            }
+            .goodInfo{
+                margin-left: -1.2rem;
+                strong{
+                    font-size: 18px;
+                }
+                b{
+                    font-weight: normal;
+                    color:orange;
+                    padding-left:.06rem;
+                    font-size: 12px;
+                }
+            }
+            .add{
+                color: orange;
+                padding: 0 .07rem;
+                border: 1px solid orange
+            }
+        } 
+    }
+    .countAll{
+        width: 100%;
+        padding: .15rem .06rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center; 
+        border-bottom:1px solid #ededed ;
+        .sumPrice{
+            color: #ff712b;
+        }
+        .selOk{
+            display: inline-block;
+            padding:.1rem .22rem;
+            background: #ff712b;
+            border-radius: .04rem;
+            color: #fff;
+        }
+    }
+}
